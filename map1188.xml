@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Wing 4 -->
 <OverlayData>
-
 	<POIs>
 		<!-- Statues -->
 		<POI type="peak.w4.deimos.n" MapID="1188" xpos="-199.6227" ypos="357.7137" zpos="126.6658"
@@ -12,7 +11,6 @@
 			GUID="bN0gi00s50aMpQEO6fyimw==" />
 		<POI type="peak.w4.deimos.w" MapID="1188" xpos="-226.0543" ypos="357.7129" zpos="112.1124"
 			GUID="AFm9t9jnSE+C/ftMJ71UGg==" />
-
 		<!-- Skips -->
 		<POI type="peak.w4.skips.b1" MapID="1188" xpos="188.036" ypos="40.73811" zpos="66.2895"
 			GUID="u4I0pGPaSUmv96Yy+6ukjw==" iconfile="Data/markers/skills/blink.png" iconSize="0.3"
@@ -32,16 +30,12 @@
 		<POI type="peak.w4.skips.p2" MapID="1188" xpos="-46.38326" ypos="96.53172" zpos="188.2937"
 			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w4.agony.agony1" MapID="1188" xpos="361.6215" ypos="33.72034" zpos="46.0558"
-			GUID="oxNCWRqhNkCuHyJyhstOlQ==" iconfile="Data/markers/dot.png"
-			iconSize="0.4" color="FF33FF" heightOffset="-0.42" />
 		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-132.8638" ypos="125.3986" zpos="164.0437"
 			GUID="p3MO07z2y0i+9v/u7un8nw==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-198.5517" ypos="101.9231" zpos="98.96956"
 			GUID="HRv1v19jn0uRKgXRzhOdHw==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
-
 		<!-- Spears -->
 		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-99.9579" ypos="129.039" zpos="88.3492"
 			guid="dIaeOfdzWECZ/QSzaxrwCA==" />
@@ -67,7 +61,6 @@
 			guid="ZE1ggr7V8EyGNyWfjNfPpw==" />
 		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-119.615" ypos="129.039" zpos="46.3155"
 			guid="03arLwFQS0Gvzx4eqxLyBQ==" />
-
 		<!-- Stack Spots -->
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-75.65955" ypos="129.5138" zpos="77.46018"
 			GUID="9DXT6cgvpkqrsXvzlZGydA==" iconfile="Data/markers/numbers/1.png"
@@ -84,21 +77,29 @@
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-127.46" ypos="129.5237" zpos="77.98724"
 			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/5.png"
 			heightOffset="-0.2" />
-		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-117.1075" ypos="129.5586" zpos="79.82977"
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-117.4397" ypos="129.5109" zpos="77.35504"
 			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/6.png"
 			heightOffset="-0.2" />
-		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-109.9125" ypos="129.5992" zpos="70.38587"
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-109.6467" ypos="129.5106" zpos="85.42272"
 			GUID="pMlXlVwfpUGmNeVbfJnfTw==" iconfile="Data/markers/numbers/7.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-101.1629" ypos="129.4949" zpos="78.19231"
 			GUID="pMlXlVwfpUGmNeVbfJnfTw==" iconfile="Data/markers/numbers/8.png"
 			heightOffset="-0.2" />
-
-		<!-- Stack Spots -->
+		<!-- Focus Pull -->
 		<POI type="peak.w4.samy.fp" MapID="1188" xpos="-132.6031" ypos="129.4804" zpos="73.59577"
 			GUID="UUaax2PLKUac1d1IDX6sJg==" iconfile="Data/markers/skills/temporal_curtain.png"
 			iconSize="0.5" heightOffset="-0.5" />
+		<!-- Samarog Boundary -->
+		<trail type="peak.w4.samy.boundary" traildata="Data/boundary/samarog_boundary.trl"
+			animspeed="0"
+			alpha="1" texture="Data/boundary/RedLine.png" mapid="1188" />
+		<!-- Cairn -->
+		<POI type="peak.w4.cairn.agony" MapID="1188" xpos="361.6215" ypos="33.72034" zpos="46.0558"
+			GUID="oxNCWRqhNkCuHyJyhstOlQ==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="-0.42" />
+		<trail type="peak.w4.cairn.mm" traildata="Data/boundary/cairn_maxMelee.trl" animspeed="0"
+			alpha="0.75" texture="Data/boundary/RedLine.png" mapid="1188" />
 	</POIs>
-
 </OverlayData>
 	
