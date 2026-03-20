@@ -163,11 +163,12 @@
 
 		<!-- Wing 7 -->
 		<MarkerCategory name="w7" displayName="Wing 7">
-			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100">
-				<MarkerCategory name="n" displayName="North Pylon" color="00FF00" />
-				<MarkerCategory name="e" displayname="East Pylon" color="FF0000" />
-				<MarkerCategory name="w1" displayname="West Pylon (left)" color="7F00FF" />
-				<MarkerCategory name="w2" displayname="West Pylon (right)" color="FF33FF" />
+			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000" fadefar="3100" mapvisibility="0" minimapvisibility="0"/>
+			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100" color="FF33FF">
+				<MarkerCategory name="n" displayName="North Pylon" />
+				<MarkerCategory name="e" displayname="East Pylon"  />
+				<MarkerCategory name="w1" displayname="West Pylon (left)" />
+				<MarkerCategory name="w2" displayname="West Pylon (right)" />
 			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>

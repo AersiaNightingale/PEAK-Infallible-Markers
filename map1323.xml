@@ -3,15 +3,59 @@
 <OverlayData>
 	
 	<POIs>
-		
-		<POI type="peak.w7.qtp.n" MapID="1323" xpos="60.3149" ypos="16.812" zpos="289.696" guid="ndrRd4kbAUihoAn+8mMHhg==" iconfile="Data/markers/numbers/1.png"/>
-		<POI type="peak.w7.qtp.n" MapID="1323" xpos="61.7815" ypos="16.812" zpos="267.747" guid="UY0KTvtHQkyDRM41rjQXxw==" iconfile="Data/markers/numbers/2.png"/>
-		<POI type="peak.w7.qtp.e" MapID="1323" xpos="61.1567" ypos="16.812" zpos="223.099" guid="fYzNPJKuUEW7nPQHHcP9tQ==" iconfile="Data/markers/numbers/1.png"/>
-		<POI type="peak.w7.qtp.e" MapID="1323" xpos="79.4131" ypos="16.812" zpos="256.645" guid="EURwmvkCXEWqMxuqEn9lgw==" iconfile="Data/markers/numbers/2.png"/>
-		<POI type="peak.w7.qtp.w1" MapID="1323" xpos="3.20733" ypos="16.812" zpos="256.496" guid="RgXNIP56RUS8+q6iWCGstA==" iconfile="Data/markers/numbers/1.png"/>
-		<POI type="peak.w7.qtp.w1" MapID="1323" xpos="21.0813" ypos="16.812" zpos="267.726" guid="j42eFRxeq0KHCrEHyTCV6A==" iconfile="Data/markers/numbers/2.png"/>
-		<POI type="peak.w7.qtp.w2" MapID="1323" xpos="41.5267" ypos="16.812" zpos="232.625" guid="OnA3f9loI0Szf9AH0p+CjA==" iconfile="Data/markers/numbers/2.png"/>
-		<POI type="peak.w7.qtp.w2" MapID="1323" xpos="22.7705" ypos="16.812" zpos="222.425" guid="DWzMgW362EGHMI73rIokEQ==" iconfile="Data/markers/numbers/1.png"/>
+		<!-- Out Of Bounds -->
+		<POI type="peak.w7.oob" MapID="1323" xpos="228.8301" ypos="42.36111" zpos="-292.5455" GUID="fz1w6pULOUa4MEpghoorEQ==" iconfile="Data/markers/mounts/Bond_of_Faith.png"
+			iconSize="0.5" heightOffset="0.5"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="197.0101" ypos="47.60941" zpos="-262.0982" GUID="tprxBJosdEW+UszhCYCtIg==" iconfile="Data/markers/mounts/skyscale.png"
+			iconSize="0.5" heightOffset="0.5"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="219.7628" ypos="76.81275" zpos="-159.2864" GUID="nlfmvV4nakCTdgr33iH3rQ==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0" />
+		<POI type="peak.w7.oob" MapID="1323" xpos="226.1323" ypos="91.83843" zpos="-154.4498" GUID="CExyzIuxJ0KEcMfBO8jo1Q==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0" />
+		<POI type="peak.w7.oob" MapID="1323" xpos="225.4433" ypos="123.9549" zpos="-139.8813" GUID="NxCA3nDF+0iI82k+Whrqbg==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0" />
+		<POI type="peak.w7.oob" MapID="1323" xpos="166.845" ypos="115.116" zpos="-103.9243" GUID="nqWhUjgOJ0eVaRR2ygBUwg==" iconfile="Data/markers/mounts/dismount.png"
+			iconSize="0.5" heightOffset="0.5"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="176.5072" ypos="117.5724" zpos="-105.5713" GUID="G9F9M7eFWUSmSPezbafWUQ==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="176.5072" ypos="117.5724" zpos="-105.5713" GUID="G9F9M7eFWUSmSPezbafWUQ==" iconfile="Data/markers/wait.png"
+			iconSize="0.5" heightOffset="1.5"/>
+
+		<!-- Skip to QtP -->
+		<POI type="peak.w7.oob" MapID="1323" xpos="171.5555" ypos="18.72492" zpos="-38.41665" GUID="C47WIHJyUk+0wx8s+s2W5Q==" iconfile="Data/markers/mounts/skyscale.png"
+			iconSize="0.5" eightOffset="0.5"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="182.638" ypos="46.66043" zpos="-1.376161" GUID="rUNG7jlxKUqnn1rsByknKw==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0" />	
+		<POI type="peak.w7.oob" MapID="1323" xpos="186.6485" ypos="84.2824" zpos="7.141307" GUID="Mmq6qHudkEaNkQrkW/hR1Q==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="193.6549" ypos="113.5557" zpos="14.57727" GUID="8D6Uh+aYtUCVmWfyI/dxZA==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="-72.84045" ypos="94.34654" zpos="140.1244" GUID="M1JOx49tHEuZFhHJwz0/PA==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="0" />
+		<POI type="peak.w7.oob" MapID="1323" xpos="178.7741" ypos="129.8481" zpos="47.0223" GUID="oXutnA/9skO8DOJl8z11vw==" iconfile="Data/markers/mounts/roller.png"
+			iconSize="0.5" heightOffset="0.5"/>	
+		<POI type="peak.w7.oob" MapID="1323" xpos="-76.09766" ypos="106.3214" zpos="120.2292" GUID="COFyVkqQhE2LtHePd0PfLQ==" iconfile="Data/markers/mounts/dismount.png"
+			iconSize="0.5" heightOffset="0.5"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="-77.39996" ypos="94.88927" zpos="119.3583" GUID="lV5bcZETJ0O1aejWO7oOjg==" iconfile="Data/markers/mounts/griffon.png"
+			iconSize="0.5" heightOffset="0.5"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="59.30213" ypos="18.73297" zpos="-34.26282" GUID="hRj7oPCf40OAf4GwHzh8aQ==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="0" mapvisibility="1" minimapvisibility="1"/>
+		<POI type="peak.w7.oob" MapID="1323" xpos="41.39197" ypos="2.621278" zpos="88.0147" GUID="5tqaWHLSakmvcbC66UlPpQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="0" mapvisibility="1" minimapvisibility="1"/>
+		<trail type="peak.w7.oob" traildata="data/trails/gate_skip.trl" animspeed="0"
+            texture="data/markers/arrowg.png" mapid="1323" />
+		<trail type="peak.w7.oob" traildata="data/trails/qtp_skip.trl" animspeed="0"
+            texture="data/markers/arrowg.png" mapid="1323" />
+
+		<!-- QtP -->
+		<POI type="peak.w7.qtp.n" MapID="1323" xpos="56.72192" ypos="16.812" zpos="290.9557" guid="ndrRd4kbAUihoAn+8mMHhg==" iconfile="Data/markers/numbers/1.png"/>
+		<POI type="peak.w7.qtp.n" MapID="1323" xpos="59.11689" ypos="16.812" zpos="277.5002" guid="UY0KTvtHQkyDRM41rjQXxw==" iconfile="Data/markers/numbers/2.png"/>
+		<POI type="peak.w7.qtp.e" MapID="1323" xpos="63.87463" ypos="16.812" zpos="224.8805" guid="fYzNPJKuUEW7nPQHHcP9tQ==" iconfile="Data/markers/numbers/1.png"/>
+		<POI type="peak.w7.qtp.e" MapID="1323" xpos="79.3375" ypos="16.812" zpos="249.4429" guid="EURwmvkCXEWqMxuqEn9lgw==" iconfile="Data/markers/numbers/2.png"/>
+		<POI type="peak.w7.qtp.w2" MapID="1323" xpos="17.42239" ypos="16.812" zpos="226.0995" guid="RgXNIP56RUS8+q6iWCGstA==" iconfile="Data/markers/numbers/1.png"/>
+		<POI type="peak.w7.qtp.w2" MapID="1323" xpos="33.35748" ypos="16.812" zpos="230.2357" guid="j42eFRxeq0KHCrEHyTCV6A==" iconfile="Data/markers/numbers/2.png"/>
+		<POI type="peak.w7.qtp.w1" MapID="1323" xpos="3.601572" ypos="16.812" zpos="250.4566" guid="OnA3f9loI0Szf9AH0p+CjA==" iconfile="Data/markers/numbers/1.png"/>
+		<POI type="peak.w7.qtp.w1" MapID="1323" xpos="12.83409" ypos="16.812" zpos="261.2024" guid="DWzMgW362EGHMI73rIokEQ==" iconfile="Data/markers/numbers/2.png"/>
 	</POIs>
 
 </OverlayData>
