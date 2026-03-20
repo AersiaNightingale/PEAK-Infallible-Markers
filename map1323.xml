@@ -23,7 +23,7 @@
 
 		<!-- Skip to QtP -->
 		<POI type="peak.w7.oob" MapID="1323" xpos="171.5555" ypos="18.72492" zpos="-38.41665" GUID="C47WIHJyUk+0wx8s+s2W5Q==" iconfile="Data/markers/mounts/skyscale.png"
-			iconSize="0.5" eightOffset="0.5"/>
+			iconSize="0.5" heightOffset="0.5"/>
 		<POI type="peak.w7.oob" MapID="1323" xpos="182.638" ypos="46.66043" zpos="-1.376161" GUID="rUNG7jlxKUqnn1rsByknKw==" iconfile="Data/markers/dot.png"
 			iconSize="0.4" color="FF33FF" heightOffset="0" />	
 		<POI type="peak.w7.oob" MapID="1323" xpos="186.6485" ypos="84.2824" zpos="7.141307" GUID="Mmq6qHudkEaNkQrkW/hR1Q==" iconfile="Data/markers/dot.png"
