@@ -4,6 +4,8 @@
 	
 	<POIs>
 		<!-- Out Of Bounds -->
+		<POI MapID="1323" xpos="218.1285" ypos="7.820885" zpos="-299.8596" GUID="eRCSFlA0bE6TV2149h3T9g==" iconfile="Data/markers/mounts/skyscale.png"
+			iconSize="0.5" heightOffset="0.5" mapvisibility="1" minimapvisibility="1"/>
 		<POI type="peak.w7.oob" MapID="1323" xpos="228.8301" ypos="42.36111" zpos="-292.5455" GUID="fz1w6pULOUa4MEpghoorEQ==" iconfile="Data/markers/mounts/Bond_of_Faith.png"
 			iconSize="0.5" heightOffset="0.5"/>
 		<POI type="peak.w7.oob" MapID="1323" xpos="197.0101" ypos="47.60941" zpos="-262.0982" GUID="tprxBJosdEW+UszhCYCtIg==" iconfile="Data/markers/mounts/skyscale.png"

@@ -36,6 +36,8 @@
 				<MarkerCategory name="mush" displayName="Mushroom" />
 				<MarkerCategory name="fp" displayName="Focus Pull" />
 			</MarkerCategory>
+			<MarkerCategory name="trio" displayName="Trio" />
+			<MarkerCategory name="matt" displayName="Matthias" />
 			<MarkerCategory name="skips" displayName="Skips">
 				<MarkerCategory name="p1" displayName="Mesmer Portal 1" iconsize="0.5" alpha="0.75"
 					fadenear="5000" fadefar="5100" />
@@ -54,8 +56,6 @@
 				<markercategory name="mattpre" displayname="Matthias Pre Groups" alpha="0.75"
 					fadenear="3000" fadefar="3100" />
 			</MarkerCategory>
-			<MarkerCategory name="trio" displayName="Trio" />
-			<MarkerCategory name="matt" displayName="Matthias" />
 		</MarkerCategory>
 
 		<!-- Wing 3 -->

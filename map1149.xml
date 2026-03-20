@@ -45,12 +45,14 @@
 			iconSize="0.5" heightOffset="-0.5" />
 
 		<!-- Trio Jumping Puzzle -->
-		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="103.6934" ypos="71.49053" zpos="-100.0397" GUID="iw1WiwuAVUqhU3ZoLaxEzQ==" iconfile="Data/markers/dot.png" color="FF0000"
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="103.6934" ypos="71.49053" zpos="-100.0397"
+			GUID="iw1WiwuAVUqhU3ZoLaxEzQ==" iconfile="Data/markers/dot.png" color="FF0000"
 			iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100" heightoffset="0"
-			minimapvisibility="0" mapvisibility="0" />	
-		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="101.0241" ypos="73.42649" zpos="-100.7901" GUID="OZZ4Kx0nv0irK0D9amMJLw==" iconfile="Data/markers/dot.png"
+			minimapvisibility="0" mapvisibility="0" />
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="101.0241" ypos="73.42649" zpos="-100.7901"
+			GUID="OZZ4Kx0nv0irK0D9amMJLw==" iconfile="Data/markers/dot.png"
 			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
-			heightoffset="0" minimapvisibility="0" mapvisibility="0"/>
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
 
 		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="100.391594" zpos="-93.5762253"
 			ypos="80.07212" guid="VIye+Ekod0O4a1uFLgzY4w==" iconfile="Data/markers/dot.png"
@@ -88,21 +90,54 @@
 			GUID="QTxcrs2f70GO9Pt4D7pFWA==" iconfile="Data/markers/markers/arrow.png"
 			minimapvisibility="0" mapvisibility="0" fadenear="3000" fadefar="3100" iconsize="0.75"
 			heightoffset="0" />
-		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="5.946721" ypos="64.81384" zpos="-131.016" GUID="j+kmsRFJ9km491qe8Ql2nQ==" iconfile="Data/markers/dot.png"
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="5.946721" ypos="64.81384" zpos="-131.016"
+			GUID="j+kmsRFJ9km491qe8Ql2nQ==" iconfile="Data/markers/dot.png"
 			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="1.936337" ypos="66.61437" zpos="-130.2887" GUID="E923vemDeU2AvDja/hm1iA==" iconfile="Data/markers/dot.png"
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="1.936337" ypos="66.61437" zpos="-130.2887"
+			GUID="E923vemDeU2AvDja/hm1iA==" iconfile="Data/markers/dot.png"
 			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="3.791338" ypos="68.05129" zpos="-129.0602" GUID="grTRpvoJ6UynjaUtIp3OZw==" iconfile="Data/markers/dot.png"
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="3.791338" ypos="68.05129" zpos="-129.0602"
+			GUID="grTRpvoJ6UynjaUtIp3OZw==" iconfile="Data/markers/dot.png"
 			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="5.451539" ypos="69.84197" zpos="-127.8551" GUID="Fzjpt2ikekuJOjY9K+1iEQ==" iconfile="Data/markers/dot.png"
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="5.451539" ypos="69.84197" zpos="-127.8551"
+			GUID="Fzjpt2ikekuJOjY9K+1iEQ==" iconfile="Data/markers/dot.png"
 			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
 
 		<trail type="peak.w2.skips.jp1" traildata="data/trails/trio_jp.trl" animspeed="0"
-            texture="data/markers/arrowg.png" mapid="1149" alpha="0.75" fadenear="2000" fadefar="2100" minimapvisibility="0" mapvisibility="0" />
+			texture="data/markers/arrowg.png" mapid="1149" alpha="0.75" fadenear="2000"
+			fadefar="2100" minimapvisibility="0" mapvisibility="0" />
+
+		<!-- Trio -->
+		<POI type="peak.w2.trio" MapID="1149" xpos="6.924171" ypos="1.014974" zpos="-263.6133"
+			GUID="BATC52P13kq7XEQguP92Yg==" iconfile="Data/markers/open_wargs.png" iconsize="1.4"
+			fadenear="3500" fadefar="3600" />
+		<POI type="peak.w2.trio" MapID="1149" xpos="-20.17767" ypos="2.700348" zpos="-287.5904"
+			GUID="+eAteqgL4UeSRllOSqmf7Q==" iconfile="Data/markers/open_wargs.png" iconsize="1.4"
+			fadenear="3500" fadefar="3600" />
+		<POI type="peak.w2.trio" MapID="1149" xpos="-34.62282" ypos="15.55848" zpos="-198.864"
+			GUID="2X9g4eDYzE2v2/dk/vlpaA==" iconfile="Data/markers/open_wargs.png" iconsize="1.4"
+			fadenear="3500" fadefar="3600" />
+
+		<trail type="peak.w2.trio" traildata="Data/boundary/trio_north.trl"
+			animspeed="0" alpha="1" texture="Data/boundary/RedLine.png" mapid="1149"
+			cull="CounterClockwise"
+			fadefar="800"
+			fadenear="500" trailscale="1.5" mapvisibility="1" minimapvisibility="1" />
+		<trail type="peak.w2.trio" traildata="Data/boundary/trio_east.trl"
+			animspeed="0" alpha="1" texture="Data/boundary/RedLine.png" mapid="1149"
+			cull="CounterClockwise"
+			fadefar="800"
+			fadenear="500" trailscale="1.5" mapvisibility="1" minimapvisibility="1" />
+		<trail type="peak.w2.trio" traildata="Data/boundary/trio_south.trl"
+			animspeed="0" alpha="1" texture="Data/boundary/RedLine.png" mapid="1149"
+			cull="CounterClockwise"
+			fadefar="800"
+			fadenear="500" trailscale="1.5" mapvisibility="1" minimapvisibility="1" />
+
 
 		<!-- Matthias Jumping Puzzle -->
 		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-121.842" ypos="115.416" zpos="103.4"
