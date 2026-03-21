@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Wing 6 -->
+<OverlayData>
+    <POIs>
+        <POI type="peak.w6.clear" MapID="1303" xpos="353.9356" ypos="5.16226" zpos="296.0625"
+            GUID="PULxSIQN/0qTudWQh/JdFQ==" iconfile="Data/markers/mounts/skimmer.png" heightOffset="0.5"/>
+        <POI type="peak.w6.clear" MapID="1303" xpos="207.2273" ypos="1.376433" zpos="282.7769" GUID="NjrbDsF8Y0moIWsaqDlXsg==" iconfile="Data/markers/mounts/slipstream_boost.png" heightOffset="1.0"/>
+        <POI type="peak.w6.clear" MapID="1303" xpos="48.72201" ypos="37.40062" zpos="293.4903" GUID="jBzmjjjrmEeMWIXoX+daNA==" iconfile="Data/markers/skills/Portal_Entre.png" heightOffset="0"/>
+        <POI type="peak.w6.clear" MapID="1303" xpos="16.02818" ypos="121.2919" zpos="253.0716" GUID="6IkHVwlIW0q3Wb0DR4tYwA==" iconfile="Data/markers/skills/Portal_Exeunt.png" heightOffset="0"/>
+        <trail type="peak.w6.clear" traildata="data/trails/clear_qtp.trl" animspeed="0"
+            texture="data/markers/arrowg.png" alpha="0.75" fadenear="2000" fadefar="2100"
+            minimapvisibility="0" mapvisibility="0" mapid="1149" />
+        <POI type="peak.w6.clear" MapID="1303" xpos="63.506741" ypos="45.456284" zpos="305.495972" GUID="ukmPg/pfRk26si6Zn3MnWQ==" iconfile="Data/markers/mounts/dismount.png" heightOffset="0.5"/>
+    </POIs>
+</OverlayData>

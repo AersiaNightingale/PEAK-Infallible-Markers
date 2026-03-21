@@ -20,7 +20,7 @@
 			iconSize="0.5" heightOffset="0.5"/>
 		<POI type="peak.w7.oob" MapID="1323" xpos="176.5072" ypos="117.5724" zpos="-105.5713" GUID="G9F9M7eFWUSmSPezbafWUQ==" iconfile="Data/markers/dot.png"
 			iconSize="0.4" color="FF33FF" heightOffset="0"/>
-		<POI type="peak.w7.oob" MapID="1323" xpos="176.5072" ypos="117.5724" zpos="-105.5713" GUID="G9F9M7eFWUSmSPezbafWUQ==" iconfile="Data/markers/wait.png"
+		<POI type="peak.w7.oob" MapID="1323" xpos="176.5072" ypos="117.5724" zpos="-105.5713" GUID="IpO5R3gBAkC/tHQPbHF0mA==" iconfile="Data/markers/wait.png"
 			iconSize="0.5" heightOffset="1.5"/>
 
 		<!-- Skip to QtP -->

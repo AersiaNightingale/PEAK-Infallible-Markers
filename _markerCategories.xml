@@ -161,6 +161,11 @@
 				fadefar="5100" alpha="0.75" />
 		</MarkerCategory>
 
+		<!-- Wing 6 -->
+		<MarkerCategory name="w6" displayName="Wing 6">
+			<MarkerCategory name="clear" displayName="Clear a Path" fadenear="3000" fadefar="3100" iconSize="0.5"/>
+		</MarkerCategory>
+
 		<!-- Wing 7 -->
 		<MarkerCategory name="w7" displayName="Wing 7">
 			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000" fadefar="3100" mapvisibility="0" minimapvisibility="0"/>

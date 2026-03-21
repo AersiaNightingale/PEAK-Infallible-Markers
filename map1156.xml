@@ -48,6 +48,9 @@
 			zpos="465.1416" guid="uzEU0XNPfUCcmttxLgYFKA=="
 			iconfile="Data/markers/skills/overhere.png" />
 
+		<POI type="peak.w3.escort.towers" MapID="1156" xpos="-66.08955" ypos="103.5527" zpos="484.42" GUID="bXla0nnCt0OFM6ivRt5KEA==" iconfile="Data/markers/skills/overhere.png" />
+		<POI type="peak.w3.escort.towers" MapID="1156" xpos="-43.95631" ypos="124.1569" zpos="440.042" GUID="W7LScmUZ0E+6vh62TWadvg==" iconfile="Data/markers/skills/overhere.png"/>
+
 		<!-- Mesmer Portal 1 -->
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="159.379" ypos="76.639" zpos="495.794"
 			guid="Beo0KXimxk+ORMhE1q/6AA==" iconfile="Data/markers/skills/Portal_Entre.png"
