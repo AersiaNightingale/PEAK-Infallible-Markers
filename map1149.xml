@@ -30,11 +30,33 @@
 
 		<!-- Mesmer Port 2 -->
 		<poi type="peak.w2.skips.p2" mapid="1149" xpos="-32.7912" ypos="7.76554" zpos="-214.276"
-			guid="T/XBzPYj2kuklNtv8ehLPg==" iconfile="Data/markers/skills/portal_entre.png"
+			guid="T/XBzPYj2kuklNtv8ehLPg==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<poi type="peak.w2.skips.p2" mapid="1149" xpos="-34.22" ypos="79.8" zpos="-123.9"
 			guid="m18lw/76/UGZAl51Aa8Xpg==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Mesmer Port 3 -->
+		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-38.18362" ypos="84.09558" zpos="-105.9086"
+			GUID="8aS1tkr8QkyBPu3KN/hS7A==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-53.7496" ypos="96.07056" zpos="-7.709968"
+			GUID="KrZkDp6+XkalyGxJKKW+hQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Walk -->
+		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-35.92792" ypos="75.1479" zpos="-63.51092"
+			GUID="NGP4IUuLeUOUV2jeepsMlA==" iconfile="Data/markers/icons/walk.png" iconsize="0.75"
+			fadenear="2000" fadefar="2100" heightoffset="0.5" minimapvisibility="0"
+			mapvisibility="0" />
+		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-40.87291" ypos="73.90502" zpos="-62.74176"
+			GUID="854eTkkv8Eyj3oyLpNvsEQ==" iconfile="Data/markers/walk.png" iconsize="0.75"
+			fadenear="2000" fadefar="2100" heightoffset="0.5" minimapvisibility="0"
+			mapvisibility="0" />
+		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-45.4469" ypos="73.51794" zpos="-63.167"
+			GUID="bcrAldNil0C7vcaBghfYJw==" iconfile="Data/markers/walk.png" iconsize="0.75"
+			fadenear="2000" fadefar="2100" heightoffset="0.5" minimapvisibility="0"
+			mapvisibility="0" />
 
 		<!-- Thief Port -->
 		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-104.9641" ypos="105.6987" zpos="200.625"
@@ -123,21 +145,20 @@
 			fadenear="3500" fadefar="3600" />
 
 		<trail type="peak.w2.trio" traildata="Data/boundary/trio_north.trl"
-			animspeed="0" alpha="1" texture="Data/boundary/RedLine.png" mapid="1149"
+			animspeed="0" alpha="1" texture="Data/boundary/Red_Line_thick.png" mapid="1149"
 			cull="CounterClockwise"
 			fadefar="800"
 			fadenear="500" trailscale="1.5" mapvisibility="1" minimapvisibility="1" />
 		<trail type="peak.w2.trio" traildata="Data/boundary/trio_east.trl"
-			animspeed="0" alpha="1" texture="Data/boundary/RedLine.png" mapid="1149"
+			animspeed="0" alpha="1" texture="Data/boundary/Red_Line_thick.png" mapid="1149"
 			cull="CounterClockwise"
 			fadefar="800"
 			fadenear="500" trailscale="1.5" mapvisibility="1" minimapvisibility="1" />
 		<trail type="peak.w2.trio" traildata="Data/boundary/trio_south.trl"
-			animspeed="0" alpha="1" texture="Data/boundary/RedLine.png" mapid="1149"
+			animspeed="0" alpha="1" texture="Data/boundary/Red_Line_thick.png" mapid="1149"
 			cull="CounterClockwise"
 			fadefar="800"
 			fadenear="500" trailscale="1.5" mapvisibility="1" minimapvisibility="1" />
-
 
 		<!-- Matthias Jumping Puzzle -->
 		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-121.842" ypos="115.416" zpos="103.4"
@@ -201,6 +222,15 @@
 		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-105.054" ypos="109.724" zpos="93.0954"
 			guid="BqJcnxOF7UWWWGAQ3fFmAw==" iconfile="Data/markers/markers/triangle.png" />
 
+	<!-- Matthias -->
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-160.6165" ypos="131.5231" zpos="139.8906" GUID="IzcghSI+j0yRnkIA/2aqEw==" iconfile="Data/markers/markers/arrow.png"/>	
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-161.0053" ypos="131.5231" zpos="159.7476" GUID="bePs6G0tXUa7dfv+FlQmhg==" iconfile="Data/markers/markers/circle.png"/>
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-140.7091" ypos="131.526" zpos="160.0416" GUID="GoWP9DQnI0yNodJ1I4TpLw==" iconfile="Data/markers/markers/heart.png"/>
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-140.649" ypos="131.5231" zpos="140.0212" GUID="BIjX2wEWPkWo9Uz7CeuTMg==" iconfile="Data/markers/markers/square.png"/>
+		<POI type="peak.w2.matt.cc" MapID="1149" xpos="-150.871" ypos="131.528" zpos="150.1037" GUID="gnWWpoUpSkC/ao9Y7XRnTw==" iconfile="Data/markers/icons/cc.png"/>
+		<trail type="peak.w2.matt.boundary" traildata="data/boundary/matthias_boundary.trl"
+            animspeed="0"
+            alpha="0.9" texture="data/boundary/RedLine.png" mapid="1149" />
 	</POIs>
 
 </OverlayData>

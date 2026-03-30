@@ -37,11 +37,21 @@
 				<MarkerCategory name="fp" displayName="Focus Pull" />
 			</MarkerCategory>
 			<MarkerCategory name="trio" displayName="Trio" />
-			<MarkerCategory name="matt" displayName="Matthias" />
+			<MarkerCategory name="matt" displayName="Matthias" >
+				<MarkerCategory name="fountain" displayName="Fountains" iconsize="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0.5" minimapvisibility="0" mapvisibility="0"/>
+				<MarkerCategory name="cc" displayName="CC" iconsize="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0.5" minimapvisibility="0" mapvisibility="0"/>
+				<MarkerCategory name="boundary" displayName="Boundary" cull="CounterClockwise"
+					fadefar="500"
+					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0" />
+			</MarkerCategory>
 			<MarkerCategory name="skips" displayName="Skips">
 				<MarkerCategory name="p1" displayName="Mesmer Portal 1" iconsize="0.5" alpha="0.75"
 					fadenear="5000" fadefar="5100" />
 				<MarkerCategory name="p2" displayName="Mesmer Portal 2" iconsize="0.5" alpha="0.75"
+					fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="p2" displayName="Mesmer Portal 3" iconsize="0.5" alpha="0.75"
 					fadenear="5000" fadefar="5100" />
 				<MarkerCategory name="p3" displayName="Thief Portal" iconsize="0.5" alpha="0.75"
 					fadenear="5000" fadefar="5100" />
