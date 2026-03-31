@@ -20,7 +20,7 @@
 			GUID="art4zB8bL0+XDO785wcIiA==" iconfile="Data/markers/skills/temporal_curtain.png"
 			heightOffset="-0.2" iconsize="0.6" alpha="0.75" />
 		<!-- Skips -->
-		<!-- Mesmer Port 1 -->
+		<!-- Mesmer Cave Port -->
 		<POI type="peak.w2.skips.p1" MapID="1149" xpos="166.5526" ypos="2.452791" zpos="-24.3406"
 			GUID="HinfAp1ga021dnLp7VccbQ==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
@@ -28,41 +28,62 @@
 			GUID="g8skjXiwPUO5FiVBr3mxhg==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 
-		<!-- Mesmer Port 2 -->
-		<poi type="peak.w2.skips.p2" mapid="1149" xpos="-32.7912" ypos="7.76554" zpos="-214.276"
+		<!-- Mimic Mesmer Port 1 -->
+		<poi type="peak.w2.skips.mmp1" mapid="1149" xpos="-32.7912" ypos="7.76554" zpos="-214.276"
 			guid="T/XBzPYj2kuklNtv8ehLPg==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<poi type="peak.w2.skips.p2" mapid="1149" xpos="-34.22" ypos="79.8" zpos="-123.9"
+		<poi type="peak.w2.skips.mmp1" mapid="1149" xpos="-34.22" ypos="79.8" zpos="-123.9"
 			guid="m18lw/76/UGZAl51Aa8Xpg==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
-
-		<!-- Mesmer Port 3 -->
-		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-38.18362" ypos="84.09558" zpos="-105.9086"
-			GUID="8aS1tkr8QkyBPu3KN/hS7A==" iconfile="Data/markers/skills/portal_entre.png"
+		<POI type="peak.w2.skips.mmp1" MapID="1149" xpos="-33.95883" ypos="7.824111" zpos="-214.7879" GUID="psjlLkfEdkeM7siwkr6Plw==" iconfile="Data/markers/skills/mimic.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-53.7496" ypos="96.07056" zpos="-7.709968"
-			GUID="KrZkDp6+XkalyGxJKKW+hQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+
+		<POI type="peak.w2.skips.mmp1" MapID="1149" xpos="-150.9783" ypos="131.5231" zpos="114.2938"
+			GUID="CwBWXbWVKEKV97XG6l2X+w==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w2.skips.mmp1" MapID="1149" xpos="-67.01891" ypos="112.1916" zpos="162.4606"
+			GUID="WlnnB07MBkeafiNvGTM4lw==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Mimic Mesmer Port 2 -->
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-35.25627" ypos="82.3386" zpos="-115.7027"
+			GUID="8aS1tkr8QkyBPu3KN/hS7A==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-50.23461" ypos="100.1791" zpos="2.903564"
+			GUID="KrZkDp6+XkalyGxJKKW+hQ==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-36.31393" ypos="82.42908" zpos="-116.0868" GUID="UcSbVp4gaUWD3ZKZh/HLiQ==" iconfile="Data/markers/skills/mimic.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-61.71204" ypos="110.2598" zpos="169.5581"
+			GUID="f4oHxY9GCUWxTFLllrJ49Q==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-9.835631" ypos="106.1214" zpos="126.4763"
+			GUID="ZTfmKC/myEu6foD+wG3mkA==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 
 		<!-- Walk -->
-		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-35.92792" ypos="75.1479" zpos="-63.51092"
+		<POI type="peak.w2.skips.mattpre" MapID="1149" xpos="-35.92792" ypos="75.1479"
+			zpos="-63.51092"
 			GUID="NGP4IUuLeUOUV2jeepsMlA==" iconfile="Data/markers/icons/walk.png" iconsize="0.75"
 			fadenear="2000" fadefar="2100" heightoffset="0.5" minimapvisibility="0"
 			mapvisibility="0" />
-		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-40.87291" ypos="73.90502" zpos="-62.74176"
-			GUID="854eTkkv8Eyj3oyLpNvsEQ==" iconfile="Data/markers/walk.png" iconsize="0.75"
+		<POI type="peak.w2.skips.mattpre" MapID="1149" xpos="-40.87291" ypos="73.90502"
+			zpos="-62.74176"
+			GUID="854eTkkv8Eyj3oyLpNvsEQ==" iconfile="Data/markers/icons/walk.png" iconsize="0.75"
 			fadenear="2000" fadefar="2100" heightoffset="0.5" minimapvisibility="0"
 			mapvisibility="0" />
-		<POI type="peak.w2.skips.p3" MapID="1149" xpos="-45.4469" ypos="73.51794" zpos="-63.167"
-			GUID="bcrAldNil0C7vcaBghfYJw==" iconfile="Data/markers/walk.png" iconsize="0.75"
+		<POI type="peak.w2.skips.mattpre" MapID="1149" xpos="-45.4469" ypos="73.51794"
+			zpos="-63.167"
+			GUID="bcrAldNil0C7vcaBghfYJw==" iconfile="Data/markers/icons/walk.png" iconsize="0.75"
 			fadenear="2000" fadefar="2100" heightoffset="0.5" minimapvisibility="0"
 			mapvisibility="0" />
 
 		<!-- Thief Port -->
-		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-104.9641" ypos="105.6987" zpos="200.625"
-			GUID="ZML1eMlEmk6vWBgqN5ISuQ==" guid="uuig31OSDkOZIGFCruz1ew=="
-			iconfile="Data/markers/skills/shadow_portal.png" iconSize="0.5" heightOffset="-0.5" />
-		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-150.7783" ypos="131.5272" zpos="114.7843"
+		<poi type="peak.w2.skips.tp" mapid="1149" xpos="-42.30443" ypos="107.139" zpos="41.60007"
+			GUID="ZML1eMlEmk6vWBgqN5ISuQ==" iconfile="Data/markers/skills/shadow_portal.png"
+			iconSize="0.75" heightOffset="-0.5" />
+		<poi type="peak.w2.skips.tp" mapid="1149" xpos="-96.64372" ypos="129.354" zpos="150.3898"
 			GUID="k0Icibucl02BVRjfG+vdOg==" iconfile="Data/markers/skills/prepare_shadow_portal.png"
 			iconSize="0.5" heightOffset="-0.5" />
 
@@ -181,6 +202,8 @@
 			guid="YZx4X1P/ck2pgxihjFQ5Ng==" />
 		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-119.193" ypos="113.306" zpos="104.889"
 			guid="1WapRXl37Uq8WOlqqjSPUQ==" />
+		<POI type="peak.w2.skips.jp2" MapID="1149" xpos="-96.59741" ypos="129.2528" zpos="163.8358"
+			GUID="Lqa0hPJ4tEyVlsAeke+puw==" />
 
 		<!-- Matthias Cliff Skip -->
 		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-59.6" ypos="98.7" zpos="0.5"
@@ -222,15 +245,24 @@
 		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-105.054" ypos="109.724" zpos="93.0954"
 			guid="BqJcnxOF7UWWWGAQ3fFmAw==" iconfile="Data/markers/markers/triangle.png" />
 
-	<!-- Matthias -->
-		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-160.6165" ypos="131.5231" zpos="139.8906" GUID="IzcghSI+j0yRnkIA/2aqEw==" iconfile="Data/markers/markers/arrow.png"/>	
-		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-161.0053" ypos="131.5231" zpos="159.7476" GUID="bePs6G0tXUa7dfv+FlQmhg==" iconfile="Data/markers/markers/circle.png"/>
-		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-140.7091" ypos="131.526" zpos="160.0416" GUID="GoWP9DQnI0yNodJ1I4TpLw==" iconfile="Data/markers/markers/heart.png"/>
-		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-140.649" ypos="131.5231" zpos="140.0212" GUID="BIjX2wEWPkWo9Uz7CeuTMg==" iconfile="Data/markers/markers/square.png"/>
-		<POI type="peak.w2.matt.cc" MapID="1149" xpos="-150.871" ypos="131.528" zpos="150.1037" GUID="gnWWpoUpSkC/ao9Y7XRnTw==" iconfile="Data/markers/icons/cc.png"/>
+		<!-- Matthias -->
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-160.6165" ypos="131.5231"
+			zpos="139.8906" GUID="IzcghSI+j0yRnkIA/2aqEw=="
+			iconfile="Data/markers/markers/arrow.png" />
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-161.0053" ypos="131.5231"
+			zpos="159.7476" GUID="bePs6G0tXUa7dfv+FlQmhg=="
+			iconfile="Data/markers/markers/circle.png" />
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-140.7091" ypos="131.526"
+			zpos="160.0416" GUID="GoWP9DQnI0yNodJ1I4TpLw=="
+			iconfile="Data/markers/markers/heart.png" />
+		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-140.649" ypos="131.5231"
+			zpos="140.0212" GUID="BIjX2wEWPkWo9Uz7CeuTMg=="
+			iconfile="Data/markers/markers/square.png" />
+		<POI type="peak.w2.matt.cc" MapID="1149" xpos="-150.871" ypos="131.528" zpos="150.1037"
+			GUID="gnWWpoUpSkC/ao9Y7XRnTw==" iconfile="Data/markers/icons/cc.png" />
 		<trail type="peak.w2.matt.boundary" traildata="data/boundary/matthias_boundary.trl"
-            animspeed="0"
-            alpha="0.9" texture="data/boundary/RedLine.png" mapid="1149" />
+			animspeed="0"
+			alpha="0.9" texture="data/boundary/RedLine.png" mapid="1149" />
 	</POIs>
 
 </OverlayData>

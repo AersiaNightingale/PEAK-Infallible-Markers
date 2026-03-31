@@ -22,7 +22,7 @@
 			</MarkerCategory>
 			<MarkerCategory name="cull" displayname="Cull Bandits" iconsize="0.5" alpha="0.75"
 				fadenear="2000" fadefar="2100"
-				heightoffset="0"/>
+				heightoffset="0" />
 			<MarkerCategory name="sab" displayname="Sabetha">
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
@@ -37,23 +37,22 @@
 				<MarkerCategory name="fp" displayName="Focus Pull" />
 			</MarkerCategory>
 			<MarkerCategory name="trio" displayName="Trio" />
-			<MarkerCategory name="matt" displayName="Matthias" >
-				<MarkerCategory name="fountain" displayName="Fountains" iconsize="0.75" fadenear="2000" fadefar="2100"
-			heightoffset="0.5" minimapvisibility="0" mapvisibility="0"/>
-				<MarkerCategory name="cc" displayName="CC" iconsize="0.75" fadenear="2000" fadefar="2100"
-			heightoffset="0.5" minimapvisibility="0" mapvisibility="0"/>
+			<MarkerCategory name="matt" displayName="Matthias">
+				<MarkerCategory name="fountain" displayName="Fountains" iconsize="0.75"
+					fadenear="2000" fadefar="2100"
+					heightoffset="0.5" minimapvisibility="0" mapvisibility="0" />
+				<MarkerCategory name="cc" displayName="CC" iconsize="0.75" fadenear="2000"
+					fadefar="2100"
+					heightoffset="0.5" minimapvisibility="0" mapvisibility="0" />
 				<MarkerCategory name="boundary" displayName="Boundary" cull="CounterClockwise"
 					fadefar="500"
 					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0" />
 			</MarkerCategory>
 			<MarkerCategory name="skips" displayName="Skips">
-				<MarkerCategory name="p1" displayName="Mesmer Portal 1" iconsize="0.5" alpha="0.75"
+				<MarkerCategory name="p1" displayName="Mesmer Cave Portal" iconsize="0.5"
+					alpha="0.75"
 					fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="p2" displayName="Mesmer Portal 2" iconsize="0.5" alpha="0.75"
-					fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="p2" displayName="Mesmer Portal 3" iconsize="0.5" alpha="0.75"
-					fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="p3" displayName="Thief Portal" iconsize="0.5" alpha="0.75"
+				<MarkerCategory name="tp" displayName="Thief Portal" iconsize="0.5" alpha="0.75"
 					fadenear="5000" fadefar="5100" />
 				<MarkerCategory name="jp1" displayname="Trio JP" fadenear="5000" fadefar="5100" />
 				<MarkerCategory name="jp2" displayname="Matthias JP" iconfile="Data/markers/dot.png"
@@ -65,6 +64,12 @@
 					mapvisibility="0" />
 				<markercategory name="mattpre" displayname="Matthias Pre Groups" alpha="0.75"
 					fadenear="3000" fadefar="3100" />
+				<MarkerCategory name="mmp1" displayName="Mimic Mesmer Portal 1" iconsize="0.5"
+					alpha="0.75"
+					fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="mmp2" displayName="Mimic Mesmer Portal 2" iconsize="0.5"
+					alpha="0.75"
+					fadenear="5000" fadefar="5100" />
 			</MarkerCategory>
 		</MarkerCategory>
 
@@ -173,15 +178,18 @@
 
 		<!-- Wing 6 -->
 		<MarkerCategory name="w6" displayName="Wing 6">
-			<MarkerCategory name="clear" displayName="Clear a Path" fadenear="3000" fadefar="3100" iconSize="0.5"/>
+			<MarkerCategory name="clear" displayName="Clear a Path" fadenear="3000" fadefar="3100"
+				iconSize="0.5" />
 		</MarkerCategory>
 
 		<!-- Wing 7 -->
 		<MarkerCategory name="w7" displayName="Wing 7">
-			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000" fadefar="3100" mapvisibility="0" minimapvisibility="0"/>
-			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100" color="FF33FF">
+			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000"
+				fadefar="3100" mapvisibility="0" minimapvisibility="0" />
+			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100"
+				color="FF33FF">
 				<MarkerCategory name="n" displayName="North Pylon" />
-				<MarkerCategory name="e" displayname="East Pylon"  />
+				<MarkerCategory name="e" displayname="East Pylon" />
 				<MarkerCategory name="w1" displayname="West Pylon (left)" />
 				<MarkerCategory name="w2" displayname="West Pylon (right)" />
 			</MarkerCategory>
