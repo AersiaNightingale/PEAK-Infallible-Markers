@@ -129,7 +129,7 @@
 					trailscale="1.5" />
 			</MarkerCategory>
 			<MarkerCategory name="samy" displayName="Samarog" fadeNear="3000" fadeFar="4000">
-				<MarkerCategory name="spears" displayName="Spears" iconSize="0.5" alpha="0.5"
+				<MarkerCategory name="spears" displayName="Spears" alpha="0.5"
 					iconfile="Data/markers/dot.png" iconSize="0.4" heightOffset="-0.25"
 					miniMapVisibility="0" mapVisibility="0" />
 				<MarkerCategory name="stack" displayName="Stack" iconSize="1.2" />
@@ -176,14 +176,14 @@
 			<MarkerCategory name="statues" displayname="Statues">
 				<MarkerCategory name="king" displayname="Broken King" alpha="0.75" fadenear="3000"
 					fadefar="3100" />
-				<MarkerCategory name="eyes" displayname="Eyes" alpha="0.75" fadenear="2000"
+				<MarkerCategory name="eyes" displayname="Eyes" fadenear="2000"
 					fadefar="2500" mapvisibility="0" minimapvisibility="0" alpha="0.75"
 					iconfile="Data/markers/dot.png"
 					cull="CounterClockwise" color="dbc339"
 					iconsize="0.5"
 					rotate="180,0,-15" />
 			</MarkerCategory>
-			<MarkerCategory name="dhuum" displayname="Dhuum" alpha="1.0" fadenear="5000"
+			<MarkerCategory name="dhuum" displayname="Dhuum" fadenear="5000"
 				fadefar="5100" alpha="0.75" />
 		</MarkerCategory>
 
