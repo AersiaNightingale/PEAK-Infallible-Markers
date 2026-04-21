@@ -148,7 +148,8 @@
 					<MarkerCategory name="w" displayName="West"
 						iconFile="Data/Markers/direction/w.png" />
 				</MarkerCategory>
-				<MarkerCategory name="tank" displayName="Tank Spots" heightOffset="0.25" iconSize="0.75"/>		
+				<MarkerCategory name="tank" displayName="Tank Spots" heightOffset="0.25"
+					iconSize="0.75" />
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
 					fadenear="375" trailscale="1.5" mapvisibility="0" minimapvisibility="0" />
@@ -169,10 +170,17 @@
 			<MarkerCategory name="river" displayname="River" alpha="0.75" fadenear="3000"
 				fadefar="3100">
 				<MarkerCategory name="enervator" displayname="Enervator"
-					iconfile="Data/markers/dot.png" alpha="1" color="CC0066" fadenear="5000"
+					iconfile="Data/markers/dot.png" alpha="1" color="FF0000" fadenear="5000"
 					fadefar="5100" />
-				<MarkerCategory name="bomber" displayname="Bomber" iconfile="Data/markers/dot.png"
-					alpha="1" color="6600CC" fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="bomber" displayname="Bomber"
+					iconfile="Data/markers/icons/bomberman.png"
+					alpha="1.0" fadenear="5000" fadefar="5100">
+					<MarkerCategory name="right" displayname="Right Group" />
+					<MarkerCategory name="left" displayname="Left Group" />
+				</MarkerCategory>
+				<MarkerCategory name="portal" displayname="Portals"
+					alpha="1" fadenear="5000"
+					fadefar="5100" iconSize="0.5" heightOffset="0.25"/>
 			</MarkerCategory>
 			<MarkerCategory name="statues" displayname="Statues">
 				<MarkerCategory name="king" displayname="Broken King" alpha="0.75" fadenear="3000"
@@ -183,13 +191,19 @@
 					cull="CounterClockwise" color="dbc339"
 					iconsize="0.5"
 					rotate="180,0,-15" />
+				<MarkerCategory name="portal" displayname="Portals"
+					alpha="1" fadenear="2000"
+					fadefar="2200" iconSize="0.5" heightOffset="0.25"/>
 			</MarkerCategory>
 			<MarkerCategory name="dhuum" displayname="Dhuum" fadenear="5000"
 				fadefar="5100" alpha="0.75" />
 		</MarkerCategory>
-
 		<!-- Wing 6 -->
 		<MarkerCategory name="w6" displayName="Wing 6">
+			<MarkerCategory name="ca" displayName="Conjured Amalgamate Boundary"
+				cull="CounterClockwise"
+				fadefar="500"
+				fadenear="375" trailscale="1.5" mapvisibility="0" minimapvisibility="0" />
 			<MarkerCategory name="clear" displayName="Clear a Path" fadenear="3000" fadefar="3100"
 				iconSize="0.5" />
 		</MarkerCategory>
@@ -199,7 +213,7 @@
 			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000"
 				fadefar="3100" mapvisibility="0" minimapvisibility="0" />
 			<MarkerCategory name="portals" displayName="Portals" fadenear="3000"
-				fadefar="3100" iconSize="0.5" heightOffset="0"/>
+				fadefar="3100" iconSize="0.5" heightOffset="0" />
 			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100"
 				color="FF33FF">
 				<MarkerCategory name="n" displayName="North Pylon" />

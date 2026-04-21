@@ -2,6 +2,10 @@
 <!-- Wing 6 -->
 <OverlayData>
     <POIs>
+        <!-- Conjured Amalgamate -->
+        <trail type="peak.w6.ca" traildata="data/Boundary/conjured_amalgamate_boundary.trl" animspeed="0"
+            alpha="1" texture="data/Boundary/RedLine.png" mapid="1303" />
+        <!-- Clear A Path -->
         <POI type="peak.w6.clear" MapID="1303" xpos="353.9356" ypos="5.16226" zpos="296.0625"
             GUID="PULxSIQN/0qTudWQh/JdFQ==" iconfile="Data/markers/mounts/skimmer.png" heightOffset="0.5"/>
         <POI type="peak.w6.clear" MapID="1303" xpos="207.2273" ypos="1.376433" zpos="282.7769" GUID="NjrbDsF8Y0moIWsaqDlXsg==" iconfile="Data/markers/mounts/slipstream_boost.png" heightOffset="1.0"/>
