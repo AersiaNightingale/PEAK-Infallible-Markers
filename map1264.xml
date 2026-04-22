@@ -97,7 +97,7 @@
         <poi type="peak.w5.dhuum" mapid="1264" xpos="407.779" ypos="158.56" zpos="50.0276"
             guid="dwH+hhAXqE2QkW3yA8qVhA==" iconfile="Data/markers/markers/triangle.png"
             heightoffset="-0.5" />
-        <POI type="peak.w5.dhuum" MapID="1264" xpos="422.632" ypos="157.866" zpos="41.82362"
+        <POI type="peak.w5.dhuum" MapID="1264" xpos="424.8318" ypos="157.8666" zpos="-7.428401"
             GUID="Q0LM1XghD0yx0t1PzT7oTQ==" iconfile="Data/markers/dot.png"
             miniMapVisibility="0" mapVisibility="0" iconSize="0.75" color="FF33FF"
             heightOffset="-0.42" />
