@@ -26,14 +26,17 @@
             zpos="-108.898" guid="Ow34jpHhhkmbV5v/osbAww==" />
         <poi type="peak.w5.river.bomber" mapid="1264" xpos="27.1903" ypos="52.9444"
             zpos="-113.018" guid="JsuBZ/8aQ0uf/Jhq7wCkLQ==" />
-        <poi type="peak.w5.river.bomber.left" mapid="1264" xpos="61.377" ypos="75.5409" zpos="-84.9426"
-            guid="rcWwAkCH70OHHRpRtGBUjw==" />
+        <poi type="peak.w5.river.bomber.left" mapid="1264" xpos="61.377" ypos="75.5409"
+            zpos="-84.9426" guid="rcWwAkCH70OHHRpRtGBUjw==" />
         <poi type="peak.w5.river.bomber.right" mapid="1264" xpos="69.9071" ypos="76.6462"
             zpos="-101.202" guid="aRATMzwAR0GbLAJSv6qwpw==" />
         <poi type="peak.w5.river.bomber.left" mapid="1264" xpos="82.4109" ypos="91.1682"
             zpos="-54.3983" guid="7cyDstoGi0aR/KKcAa7RNg==" />
         <poi type="peak.w5.river.bomber.right" mapid="1264" xpos="96.2511" ypos="97.4523"
             zpos="-48.8083" guid="GzJMjgWbQEq1hPOBwLJP3Q==" />
+        <POI type="peak.w5.river.bomber" MapID="1264" xpos="91.70063" ypos="112.1542"
+            zpos="-4.189085" GUID="cmj0Yq0nUk2rs4nSWpJNhQ==" iconfile="Data/markers/icons/wait.png"
+            iconSize="0.75" miniMapVisibility="0" mapVisibility="0" />
 
         <poi type="peak.w5.river.enervator" mapid="1264" xpos="-144.611" ypos="40.1848"
             zpos="25.7487" guid="D6t9UxY2SU+nj78KCn1l2A==" />
@@ -45,11 +48,23 @@
             zpos="-70.0747" guid="Y3TvJ+7NEk6XecCwGaM/jQ==" />
         <poi type="peak.w5.river.enervator" mapid="1264" xpos="103.054" ypos="119.271"
             zpos="-2.90448" guid="DzXyh2XxgE6sKGvCWEDvVA==" />
-
-        <POI type="peak.w5.river.portal" MapID="1264" xpos="-132.6194" ypos="43.21859" zpos="20.209" GUID="BqCAwOEWyUeEULAfQuxfvQ==" iconfile="Data/markers/skills/portal_entre.png" />
-        <POI type="peak.w5.river.portal" MapID="1264" xpos="-163.0846" ypos="33.33446" zpos="12.79332" GUID="R1EddVG3CUqADp6C81jE8Q==" iconfile="Data/markers/skills/portal_exeunt.png"/>
-        <POI type="peak.w5.river.portal" MapID="1264" xpos="-55.5172" ypos="53.56933" zpos="17.15585" GUID="QCdGcIGLAUGWC1yzji8HoQ==" iconfile="Data/markers/skills/portal_entre.png" />
-        <POI type="peak.w5.river.portal" MapID="1264" xpos="-0.2260636" ypos="36.71103" zpos="-87.67634" GUID="NMvT4JUZNU+EifpgO8SsMw==" iconfile="Data/markers/skills/portal_exeunt.png"/>
+        <!-- Portal 1 -->
+        <POI type="peak.w5.river.portal" MapID="1264" xpos="-132.6194" ypos="43.21859"
+            zpos="20.209" GUID="BqCAwOEWyUeEULAfQuxfvQ=="
+            iconfile="Data/markers/skills/portal_entre.png" />
+        <POI type="peak.w5.river.portal" MapID="1264" xpos="-163.0846" ypos="33.33446"
+            zpos="12.79332" GUID="R1EddVG3CUqADp6C81jE8Q=="
+            iconfile="Data/markers/skills/portal_exeunt.png" />
+        <!-- Portal 2 -->
+        <POI type="peak.w5.river.portal" MapID="1264" xpos="-55.5172" ypos="53.56933"
+            zpos="17.15585" GUID="QCdGcIGLAUGWC1yzji8HoQ=="
+            iconfile="Data/markers/skills/portal_entre.png" />
+        <POI type="peak.w5.river.portal" MapID="1264" xpos="-0.2260636" ypos="36.71103"
+            zpos="-87.67634" GUID="NMvT4JUZNU+EifpgO8SsMw=="
+            iconfile="Data/markers/skills/portal_exeunt.png" />
+        <!-- Portal 3 -->
+        <POI type="peak.w5.river.portal" MapID="1264" xpos="29.49756" ypos="54.51737" zpos="-112.7674" GUID="KVaMWEjAZ0ip5hMzjlYUbQ==" iconfile="Data/markers/skills/portal_entre.png" />
+        <POI type="peak.w5.river.portal" MapID="1264" xpos="87.41615" ypos="88.27813" zpos="-69.00446" GUID="HQ2pDJGcG0KdTur77aNlCA==" iconfile="Data/markers/skills/portal_exeunt.png" />
 
         <!-- Statues -->
         <poi type="peak.w5.statues.king" mapid="1264" xpos="97.3634" ypos="110.836" zpos="209.431"
@@ -72,37 +87,65 @@
         <poi type="peak.w5.statues.eyes" mapid="1264" xpos="384.933" ypos="97.308" zpos="20.685"
             guid="jDkcSZokJUSzaTgg/4Bk9g==" />
 
-        <POI type="peak.w5.statues.portal" MapID="1264" xpos="217.7634" ypos="146.6334" zpos="40.16222" GUID="oC/QAeQc6EySsiuUGGw2aQ==" iconfile="Data/markers/skills/portal_entre.png"/>
-        <POI type="peak.w5.statues.portal" MapID="1264" xpos="329.95" ypos="98.90852" zpos="47.52043" GUID="+PEQyDNGu0SoepdBRYdC/g==" iconfile="Data/markers/skills/portal_exeunt.png"/>
+        <POI type="peak.w5.statues.portal" MapID="1264" xpos="217.7634" ypos="146.6334"
+            zpos="40.16222" GUID="oC/QAeQc6EySsiuUGGw2aQ=="
+            iconfile="Data/markers/skills/portal_entre.png" />
+        <POI type="peak.w5.statues.portal" MapID="1264" xpos="329.95" ypos="98.90852"
+            zpos="47.52043" GUID="+PEQyDNGu0SoepdBRYdC/g=="
+            iconfile="Data/markers/skills/portal_exeunt.png" />
 
         <!-- Dhuum -->
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="429.051" ypos="158.623" zpos="30.7413"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="429.051" ypos="158.623" zpos="30.7413"
             guid="+NVxEzOMik6N+SeDeue4Zw==" iconfile="Data/markers/markers/arrow.png"
             heightoffset="-0.5" />
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="427.904" ypos="158.665" zpos="1.97305"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="427.904" ypos="158.665" zpos="1.97305"
             guid="Ds1W1dwIiU+mpKNDSeWn3g==" iconfile="Data/markers/markers/circle.png"
             heightoffset="-0.5" />
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="404.808" ypos="158.64" zpos="-14.862"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="404.808" ypos="158.64" zpos="-14.862"
             guid="4WtBMqzD3EyiDx31XT6i2w==" iconfile="Data/markers/markers/heart.png"
             heightoffset="-0.5" />
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="377.819" ypos="158.657" zpos="-6.60314"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="377.819" ypos="158.657" zpos="-6.60314"
             guid="y/BRpS+U50SiX8FY8E51sw==" iconfile="Data/markers/markers/square.png"
             heightoffset="-0.5" />
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="365.887" ypos="158.668" zpos="19.4137"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="365.887" ypos="158.668" zpos="19.4137"
             guid="0hLGImDyUkOeolGOG0XjRA==" iconfile="Data/markers/markers/star.png"
             heightoffset="-0.5" />
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="379.1" ypos="158.635" zpos="44.71"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="379.1" ypos="158.635" zpos="44.71"
             guid="TWVZ0voY9U2vNN7D1pGtkA==" iconfile="Data/markers/markers/spiral.png"
             heightoffset="-0.5" />
-        <poi type="peak.w5.dhuum" mapid="1264" xpos="407.779" ypos="158.56" zpos="50.0276"
+        <poi type="peak.w5.dhuum.seal" mapid="1264" xpos="407.779" ypos="158.56" zpos="50.0276"
             guid="dwH+hhAXqE2QkW3yA8qVhA==" iconfile="Data/markers/markers/triangle.png"
             heightoffset="-0.5" />
-        <POI type="peak.w5.dhuum" MapID="1264" xpos="424.8318" ypos="157.8666" zpos="-7.428401"
+        <!-- Greater -->
+        <POI type="peak.w5.dhuum.throne" MapID="1264" xpos="412.4868" ypos="157.865" zpos="-0.5687893"
             GUID="Q0LM1XghD0yx0t1PzT7oTQ==" iconfile="Data/markers/dot.png"
             miniMapVisibility="0" mapVisibility="0" iconSize="0.75" color="FF33FF"
             heightOffset="-0.42" />
-
-        <POI type="peak.w5.dhuum" MapID="1264" xpos="439.4151" ypos="157.9093" zpos="15.96381" GUID="oUp6pJos6E2UsoRqm0MVcQ==" iconfile="Data/markers/peak.png" heightOffset="0" iconSize="0.75" rotate="0,180,-90"/>
+        <!-- Bug -->
+        <POI type="peak.w5.dhuum.bug" MapID="1264" xpos="351." ypos="159.5" zpos="33."
+            GUID="DU2z7YUjDUyJ3VzTJJV3LA==" iconfile="Data/markers/dot.png"
+            miniMapVisibility="0" mapVisibility="0" iconSize="0.25" color="FF33FF"
+            heightOffset="2.0" />
+        <POI type="peak.w5.dhuum.bug" MapID="1264" xpos="352.2515" ypos="159.4105" zpos="32.89299" GUID="+Ze5pQEqgEyksJp740fRsg==" iconfile="Data/markers/dot.png"
+            miniMapVisibility="0" mapVisibility="0" iconSize="0.3" color="FF33FF"
+            heightOffset="0" />
+        <!-- Lesser -->
+        <POI type="peak.w5.dhuum.throne" MapID="1264" xpos="439.4151" ypos="157.9093"
+            zpos="15.96381"
+            GUID="oUp6pJos6E2UsoRqm0MVcQ==" iconfile="Data/markers/peak.png" heightOffset="0"
+            iconSize="0.75" rotate="0,180,-90" />
+        <!-- Bait -->
+        <POI type="peak.w5.dhuum.bait" MapID="1264" xpos="428.0161" ypos="157.8668" zpos="27.36108" GUID="BbXSfZtgL0CT8i8NWVsO4w==" iconfile="Data/markers/icons/alarm.png"
+            miniMapVisibility="0" mapVisibility="0" iconSize="0.75"
+            heightOffset="0" />
+        <!-- Worm -->
+        <POI type="peak.w5.dhuum.worm" MapID="1264" xpos="374.7941" ypos="157.86" zpos="18.9579"
+            GUID="qv+sC9D1RU2CTiTyn700jg==" iconfile="Data/markers/skills/Summon_Flesh_Wurm.png"
+            miniMapVisibility="0" mapVisibility="0" iconSize="0.5"
+            heightOffset="0" />
+        <POI type="peak.w5.dhuum.worm" MapID="1264" xpos="369.1158" ypos="157.8591" zpos="19.25809" GUID="Uhj7LGT9d0uhCo3otRtfCg==" iconfile="Data/markers/skills/Healing_Turret.png"
+            miniMapVisibility="0" mapVisibility="0" iconSize="0.5"
+            heightOffset="0" />
     </POIs>
 
 </OverlayData>

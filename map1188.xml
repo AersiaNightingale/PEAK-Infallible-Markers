@@ -58,8 +58,10 @@
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-101.1629" ypos="129.4949" zpos="78.19231"
 			GUID="N3A62ZZ37UOVt7sJMiTzzg==" iconfile="Data/markers/numbers/8.png"
 			heightOffset="-0.2" />
-		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-109.6587" ypos="129.6255" zpos="71.30075" GUID="yS7dHqRfJUeKr85TajbGRg==" iconfile="Data/markers/icons/frog.png" iconSize="0.5" alpha="0.75"
-			heightOffset="-0.2"/>
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-109.6587" ypos="129.6255" zpos="71.30075"
+			GUID="yS7dHqRfJUeKr85TajbGRg==" iconfile="Data/markers/icons/frog.png" iconSize="0.5"
+			alpha="0.75"
+			heightOffset="-0.2" />
 		<!-- Samarog Focus Pull -->
 		<POI type="peak.w4.samy.fp" MapID="1188" xpos="-132.6031" ypos="129.4804" zpos="73.59577"
 			GUID="UUaax2PLKUac1d1IDX6sJg==" iconfile="Data/markers/skills/temporal_curtain.png"
@@ -69,26 +71,41 @@
 			animspeed="0"
 			alpha="1" texture="Data/boundary/RedLine.png" mapid="1188" />
 		<!-- Deimos Statues -->
-		<POI type="peak.w4.deimos.statues.n" MapID="1188" xpos="-199.6227" ypos="357.7137" zpos="126.6658"
+		<POI type="peak.w4.deimos.statues.n" MapID="1188" xpos="-199.6227" ypos="357.7137"
+			zpos="126.6658"
 			GUID="wzxHe40yC0yqyBNn8Efqeg==" />
-		<POI type="peak.w4.deimos.statues.e" MapID="1188" xpos="-184.8349" ypos="357.7129" zpos="100.5784"
+		<POI type="peak.w4.deimos.statues.e" MapID="1188" xpos="-184.8349" ypos="357.7129"
+			zpos="100.5784"
 			GUID="Hc8eRuhfg0eJoHmTaSuPig==" />
-		<POI type="peak.w4.deimos.statues.s" MapID="1188" xpos="-211.0229" ypos="357.7132" zpos="86.07297"
+		<POI type="peak.w4.deimos.statues.s" MapID="1188" xpos="-211.0229" ypos="357.7132"
+			zpos="86.07297"
 			GUID="bN0gi00s50aMpQEO6fyimw==" />
-		<POI type="peak.w4.deimos.statues.w" MapID="1188" xpos="-226.0543" ypos="357.7129" zpos="112.1124"
+		<POI type="peak.w4.deimos.statues.w" MapID="1188" xpos="-226.0543" ypos="357.7129"
+			zpos="112.1124"
 			GUID="AFm9t9jnSE+C/ftMJ71UGg==" />
 		<!-- Deimos Boundary -->
-		<trail type="peak.w4.deimos.boundary" traildata="data/boundary/deimos_boundary.trl" alpha="1"
-            animspeed="0" texture="Data/boundary/RedLine.png" mapid="1188" />
+		<trail type="peak.w4.deimos.boundary" traildata="data/boundary/deimos_boundary.trl"
+			alpha="1"
+			animspeed="0" texture="Data/boundary/RedLine.png" mapid="1188" />
 		<!-- Deimos Kite Half-->
-		<POI type="peak.w4.deimos.kite" MapID="1188" xpos="-212.7247" ypos="101.923" zpos="101.5403" GUID="xMSqgnSKpk+tn+J3/PyYSQ==" iconfile="Data/markers/icons/kite.png" iconSize="0.5" alpha="0.75"
-			heightOffset="-0.2"/>
+		<POI type="peak.w4.deimos.kite" MapID="1188" xpos="-212.7247" ypos="101.923" zpos="101.5403"
+			GUID="xMSqgnSKpk+tn+J3/PyYSQ==" iconfile="Data/markers/icons/kite.png" iconSize="0.5"
+			alpha="0.75"
+			heightOffset="-0.2" />
 		<!-- Deimos Tank Spots-->
-		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-209.8504" ypos="101.9282" zpos="66.72187" GUID="6L3cw6F9nEu8BA+RITKxYA==" iconfile="Data/markers/markers/arrow.png"/>
-		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-222.1016" ypos="101.9279" zpos="71.21384" GUID="E4V93usWFECsPL25RHBdsQ==" iconfile="Data/markers/markers/circle.png"/>
-		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-230.871" ypos="101.9234" zpos="75.6821" GUID="WBxj8d9r90iaEeV4DOqvVA==" iconfile="Data/markers/markers/heart.png"/>
-		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-228.2576" ypos="101.9231" zpos="64.77581" GUID="66/6T3cNp0GbUsjkP2gb+g==" iconfile="Data/markers/markers/square.png"/>
-		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-218.787" ypos="101.9234" zpos="60.52311" GUID="+gbOf1nlcE2LPPm6trLPew==" iconfile="Data/markers/markers/star.png"/>
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-209.8504" ypos="101.9282"
+			zpos="66.72187" GUID="6L3cw6F9nEu8BA+RITKxYA=="
+			iconfile="Data/markers/markers/arrow.png" />
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-222.1016" ypos="101.9279"
+			zpos="71.21384" GUID="E4V93usWFECsPL25RHBdsQ=="
+			iconfile="Data/markers/markers/circle.png" />
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-230.871" ypos="101.9234" zpos="75.6821"
+			GUID="WBxj8d9r90iaEeV4DOqvVA==" iconfile="Data/markers/markers/heart.png" />
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-228.2576" ypos="101.9231"
+			zpos="64.77581" GUID="66/6T3cNp0GbUsjkP2gb+g=="
+			iconfile="Data/markers/markers/square.png" />
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-218.787" ypos="101.9234" zpos="60.52311"
+			GUID="+gbOf1nlcE2LPPm6trLPew==" iconfile="Data/markers/markers/star.png" />
 		<!-- Skips -->
 		<POI type="peak.w4.skips.b1" MapID="1188" xpos="188.036" ypos="40.73811" zpos="66.2895"
 			GUID="u4I0pGPaSUmv96Yy+6ukjw==" iconfile="Data/markers/skills/blink.png" iconSize="0.3"
@@ -97,21 +114,27 @@
 			GUID="XiibAo9j9UCSSwLDsiCRIQ==" iconfile="Data/markers/peak.png" iconSize="0.3"
 			heightOffset="-1.5" />
 		<POI type="peak.w4.skips.p1" MapID="1188" xpos="207.5019" ypos="27.78279" zpos="69.79719"
-			GUID="pf7LvC46FUCIg2BM0+cnsQ==" iconfile="Data/markers/skills/portal_entre.png"
+			GUID="pf7LvC46FUCIg2BM0+cnsQ==" iconfile="Data/markers/skills/shadow_portal.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<POI type="peak.w4.skips.p1" MapID="1188" xpos="170.76" ypos="89.95116" zpos="82.82368"
-			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/prepare_shadow_portal.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w4.skips.p2" MapID="1188" xpos="75.60638" ypos="105.7814" zpos="173.2348"
+		<POI type="peak.w4.skips.p2" MapID="1188" xpos="162.0483" ypos="99.26758" zpos="101.0984"
+			GUID="81eKnssbpk2norekm0wOCw==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.skips.p2" MapID="1188" xpos="91.71925" ypos="105.7757" zpos="171.2352"
+			GUID="CkfwRwSrBUSwZLcH8E92Lw==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.skips.p3" MapID="1188" xpos="75.60638" ypos="105.7814" zpos="173.2348"
 			GUID="0ymN9KguQUe1ocfJcwYTeQ==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w4.skips.p2" MapID="1188" xpos="-46.38326" ypos="96.53172" zpos="188.2937"
+		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-46.38326" ypos="96.53172" zpos="188.2937"
 			GUID="nledRqqHZUqXQYk6uanClQ==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-132.8638" ypos="125.3986" zpos="164.0437"
+		<POI type="peak.w4.skips.p4" MapID="1188" xpos="-132.8638" ypos="125.3986" zpos="164.0437"
 			GUID="p3MO07z2y0i+9v/u7un8nw==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-198.5517" ypos="101.9231" zpos="98.96956"
+		<POI type="peak.w4.skips.p4" MapID="1188" xpos="-198.5517" ypos="101.9231" zpos="98.96956"
 			GUID="HRv1v19jn0uRKgXRzhOdHw==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 	</POIs>
