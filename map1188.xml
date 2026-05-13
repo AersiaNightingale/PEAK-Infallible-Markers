@@ -34,7 +34,7 @@
 		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-119.615" ypos="129.039" zpos="46.3155"
 			guid="03arLwFQS0Gvzx4eqxLyBQ==" />
 		<!-- Samarog Stack Spots -->
-		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-75.65955" ypos="129.5138" zpos="77.46018"
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-80.09637" ypos="129.4808" zpos="77.67322"
 			GUID="9DXT6cgvpkqrsXvzlZGydA==" iconfile="Data/markers/numbers/1.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-90.6565" ypos="129.4998" zpos="70.62409"
@@ -63,7 +63,7 @@
 			alpha="0.75"
 			heightOffset="-0.2" />
 		<!-- Samarog Focus Pull -->
-		<POI type="peak.w4.samy.fp" MapID="1188" xpos="-132.6031" ypos="129.4804" zpos="73.59577"
+		<POI type="peak.w4.samy.fp" MapID="1188" xpos="-134.3515" ypos="129.4606" zpos="71.84304"
 			GUID="UUaax2PLKUac1d1IDX6sJg==" iconfile="Data/markers/skills/temporal_curtain.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<!-- Samarog Boundary -->

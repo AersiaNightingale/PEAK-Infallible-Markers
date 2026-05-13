@@ -158,8 +158,9 @@
 			<MarkerCategory name="skips" displayName="Skips" fadeNear="2500" fadeFar="5000">
 				<MarkerCategory name="b1" displayName="Wall Blink" />
 				<MarkerCategory name="p1" displayName="Wall Portal" />
-				<MarkerCategory name="p2" displayName="Shovel Portal" />
-				<MarkerCategory name="p3" displayName="Glenna Portal" />
+				<MarkerCategory name="p2" displayName="Shovel Portal 1" />
+				<MarkerCategory name="p3" displayName="Shovel Portal 2" />
+				<MarkerCategory name="p4" displayName="Glenna Portal" />
 			</MarkerCategory>
 		</MarkerCategory>
 
@@ -195,9 +196,18 @@
 					alpha="1" fadenear="2000"
 					fadefar="2200" iconSize="0.5" heightOffset="0.25"/>
 			</MarkerCategory>
-			<MarkerCategory name="dhuum" displayname="Dhuum" fadenear="5000"
+			<MarkerCategory name="dhuum" displayname="Dhuum" >
+				<MarkerCategory name="seal" displayname="Seals" fadenear="5000"
 				fadefar="5100" alpha="0.75" />
+				<MarkerCategory name="throne" displayname="Throne Tanking" fadenear="5000"
+				fadefar="5100" alpha="0.75" />
+				<MarkerCategory name="worm" displayname="Flesh Worm" fadenear="3000"
+				fadefar="3100" alpha="0.75" />
+				<MarkerCategory name="bug" displayname="Bug Alignment" fadenear="800"
+				fadefar="900" alpha="0.75" />
+			</MarkerCategory>
 		</MarkerCategory>
+	
 		<!-- Wing 6 -->
 		<MarkerCategory name="w6" displayName="Wing 6">
 			<MarkerCategory name="ca" displayName="Conjured Amalgamate Boundary"
@@ -218,8 +228,8 @@
 				color="FF33FF">
 				<MarkerCategory name="n" displayName="North Pylon" />
 				<MarkerCategory name="e" displayname="East Pylon" />
-				<MarkerCategory name="w1" displayname="West Pylon (left)" />
-				<MarkerCategory name="w2" displayname="West Pylon (right)" />
+				<MarkerCategory name="wl" displayname="West Pylon (left)" />
+				<MarkerCategory name="wr" displayname="West Pylon (right)" />
 			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>

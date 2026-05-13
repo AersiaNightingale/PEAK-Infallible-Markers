@@ -134,10 +134,6 @@
             zpos="15.96381"
             GUID="oUp6pJos6E2UsoRqm0MVcQ==" iconfile="Data/markers/peak.png" heightOffset="0"
             iconSize="0.75" rotate="0,180,-90" />
-        <!-- Bait -->
-        <POI type="peak.w5.dhuum.bait" MapID="1264" xpos="428.0161" ypos="157.8668" zpos="27.36108" GUID="BbXSfZtgL0CT8i8NWVsO4w==" iconfile="Data/markers/icons/alarm.png"
-            miniMapVisibility="0" mapVisibility="0" iconSize="0.75"
-            heightOffset="0" />
         <!-- Worm -->
         <POI type="peak.w5.dhuum.worm" MapID="1264" xpos="374.7941" ypos="157.86" zpos="18.9579"
             GUID="qv+sC9D1RU2CTiTyn700jg==" iconfile="Data/markers/skills/Summon_Flesh_Wurm.png"
