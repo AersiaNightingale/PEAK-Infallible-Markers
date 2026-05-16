@@ -87,9 +87,37 @@
         <POI type="peak.w1.jp" MapID="1062" xpos="-238.5298" ypos="65.63271" zpos="-131.9571"
             GUID="drVFWxAR+kW6+BcMUHVimg==" iconfile="Data/markers/dot.png" iconsize="0.2"
             color="FF0000" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-252.3993" ypos="56.86258" zpos="-55.75124"
+        <POI type="peak.w1.jp" MapID="1062" xpos="-228.9643" ypos="71.44184" zpos="-118.4129"
             GUID="i0n8S2xFJkm1qlsdEbSYHw==" iconfile="Data/markers/dot.png" iconsize="0.2"
             color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-224.5923" ypos="70.83344" zpos="-121.8011" GUID="SrfJBZZiNEaQo0AS/9a5KA==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-221.9365" ypos="73.6222" zpos="-122.2448" GUID="kpwnSK4MQE61YeeEqmLATw==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-216.1234" ypos="78.88767" zpos="-119.0854" GUID="GAAmaPgyNU+tDzRtyzSpmQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>    
+        <POI type="peak.w1.jp" MapID="1062" xpos="-225.7323" ypos="80.53193" zpos="-119.2404" GUID="6y8zR9YmgECaYDqnCPVVgA==" iconfile="Data/markers/skills/vault.png" iconsize="0.5" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-222.1994" ypos="82.6059" zpos="-120.0384" GUID="ulAdpT1uv0eBAiWeMiaoNg==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-212.716" ypos="81.71917" zpos="-111.8842" GUID="lf4/CWkUlk+5A/Kss8Hmgw==" iconfile="Data/markers/skills/vault.png" iconsize="0.5" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-209.3612" ypos="83.24085" zpos="-108.0428" GUID="AQB70KaRg0aFFqULdvIVkA==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-206.3386" ypos="85.90126" zpos="-106.4803" GUID="5uebjqBhZEGkUrpEKX8vQg==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-199.6843" ypos="88.6106" zpos="-103.1325" GUID="EyRBdNJq4UeQhygYjqQ1cw==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-187.5724" ypos="87.08902" zpos="-105.8918" GUID="o4vlTwOWPk+EoVpSX19YLw==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-167.9814" ypos="80.80051" zpos="-138.879211" GUID="bNlicICuSkCRRL3zTHn2yQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-172.079895" ypos="80.78732" zpos="-176.173523" GUID="EhmTIbDU5kyom77dm/8kpQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000"/>
+        
+        <POI type="peak.w1.jp" MapID="1062" xpos="-181.8465" ypos="89.43427" zpos="-103.7933" GUID="q4/his3DukuVZeNQTGzJ3g==" iconfile="Data/markers/skills/prepare_shadow_portal.png"
+            iconsize="0.5"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-232.4358" ypos="60.52361" zpos="-171.7923" GUID="LphFzd+/VEa6B77PXPrpBg==" iconfile="Data/markers/skills/shadow_portal.png"
+            iconsize="0.5"/>
+
         <POI type="peak.w1.jp" MapID="1062" xpos="-219.0425" ypos="34.88572" zpos="-10.90453"
             GUID="Tufsymyp7EC5g3TYszx2pw==" iconfile="Data/markers/dot.png" iconsize="0.2"
             color="FF0000" />
@@ -119,13 +147,6 @@
             GUID="Tu++qDws+0Sv09glmYAZtA==" iconfile="Data/markers/skills/shadow_portal.png"
             iconsize="0.5" />
 
-        <POI type="peak.w1.jp" MapID="1062" xpos="-223.0514" ypos="35.62749" zpos="-21.25113"
-            GUID="/o/rP/2V4kaa1FzgEAQVFg==" iconfile="Data/markers/skills/portal_entre.png"
-            iconsize="0.5" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-240.5857" ypos="45.143" zpos="-125.4955"
-            GUID="x/ti05Fpk0KxbWDE0r2jww==" iconfile="Data/markers/skills/portal_exeunt.png"
-            iconsize="0.5" />
-
         <POI type="peak.w1.jp" MapID="1062" xpos="-212.8723" ypos="38.60482" zpos="-43.18539"
             GUID="jKBysB3emUSSwXM9c9r9IQ==" iconfile="Data/markers/skills/mass_invisibility.png"
             iconsize="0.5" />
@@ -143,6 +164,8 @@
         <trail type="peak.w1.jp" traildata="data/trails/sr_jp_3.trl" animspeed="0"
             texture="data/markers/arrowg.png" mapid="1062" />
         <trail type="peak.w1.jp" traildata="data/trails/sr_jp_4.trl" animspeed="0"
+            texture="data/markers/arrowg.png" mapid="1062" />
+        <trail type="peak.w1.jp" traildata="data/trails/sr_jp_5.trl" animspeed="0"
             texture="data/markers/arrowg.png" mapid="1062" />
 
         <!-- Gorseval -->
