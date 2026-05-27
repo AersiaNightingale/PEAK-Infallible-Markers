@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Wing 8 -->	
+<OverlayData>
+	
+	<POIs>
+		<!-- Ura -->
+	    <trail type="peak.w8.ura.safetrails" traildata="Data/trails/safe_areas.trl" mapid="1564" />
+        <trail type="peak.w8.ura.spawner_hitbox" traildata="Data/trails/spawner_hitbox.trl"
+            mapid="1564" />
+        <trail type="peak.w8.ura.spawner_sak" traildata="Data/trails/spawner_sak.trl" mapid="1564" />
+        <trail type="peak.w8.ura.toxic_hitbox" traildata="Data/trails/toxic_hitbox.trl" mapid="1564" />
+        <trail type="peak.w8.ura.toxic_sak" traildata="Data/trails/toxic_sak.trl" mapid="1564" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="196.736" ypos="269.771" zpos="247.251"
+            guid="aZcoG8mrM0GKNFtOVP6myA==" iconfile="Data/markers/numbers/1.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="181.636" ypos="269.910" zpos="276.953"
+            guid="a7GKZRaoQ0yP16jWjt91bg==" iconfile="Data/markers/numbers/2.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="193.879" ypos="269.820" zpos="219.205"
+            guid="alLhts++4kagqjD9TRohHA==" iconfile="Data/markers/numbers/3.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="183.057" ypos="269.856" zpos="235.223"
+            guid="au516E4xakys2mWPIwc9NQ==" iconfile="Data/markers/numbers/4.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="165.245" ypos="269.916" zpos="253.156"
+            guid="ap79YmFEJE+SwTIhjnai2A==" iconfile="Data/markers/numbers/5.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="158.040" ypos="269.937" zpos="280.916"
+            guid="awEDDYslXkKQJjZIXnPDAg==" iconfile="Data/markers/numbers/6.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="178.847" ypos="269.904" zpos="202.339"
+            guid="auN+AnsjdEyt3YWkAyCTeQ==" iconfile="Data/markers/numbers/7.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="161.718" ypos="269.887" zpos="228.767"
+            guid="arvq6i+vSE2ElmBf6Zd+nA==" iconfile="Data/markers/numbers/8.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="145.961" ypos="269.847" zpos="259.399"
+            guid="aMIZHusTn0e+JsMrwjGHrw==" iconfile="Data/markers/numbers/9.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="162.641" ypos="269.851" zpos="200.383"
+            guid="aUsstDipAUSib1SMGZqubQ==" iconfile="Data/markers/numbers/10.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="145.577" ypos="269.847" zpos="228.939"
+            guid="a2WmLSF/Kkirv7Zgo4UmMg==" iconfile="Data/markers/numbers/11.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="122.405" ypos="269.845" zpos="249.628"
+            guid="aUuc7QgIKUKne18diA8cTg==" iconfile="Data/markers/numbers/12.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="136.756" ypos="269.853" zpos="199.693"
+            guid="a4Sdv2oSYE2TuxIsQ9f23g==" iconfile="Data/markers/numbers/13.png" />
+        <poi type="peak.w8.ura.toxics" mapid="1564" xpos="109.507" ypos="269.864" zpos="218.631"
+            guid="aTEbm2PGc02y00H++ffHTg==" iconfile="Data/markers/numbers/14.png" />
+
+	</POIs>
+
+</OverlayData>
+	

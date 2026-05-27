@@ -61,12 +61,12 @@
 					name="jp2" displayname="Matthias JP" iconfile="Data/markers/dot.png"
 					color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 					heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-				<markercategory
+				<MarkerCategory
 					name="jp3" displayname="Matthias Cliff Skip"
 					iconfile="Data/markers/dot.png" color="FF0000" iconsize="0.2" alpha="0.75"
 					fadenear="2000" fadefar="2100" heightoffset="0" minimapvisibility="0"
 					mapvisibility="0" />
-				<markercategory name="mattpre"
+				<MarkerCategory name="mattpre"
 					displayname="Matthias Pre Groups" alpha="0.75"
 					fadenear="3000" fadefar="3100" />
 				<MarkerCategory name="mmp1"
@@ -87,15 +87,15 @@
 		<!-- Wing 3 -->
 		<MarkerCategory name="w3" displayname="Wing 3">
 			<MarkerCategory name="escort" displayName="Escort">
-				<markercategory name="overhere" displayname="Glenna SAK spots"
+				<MarkerCategory name="overhere" displayname="Glenna SAK spots"
 					iconfile="Data/markers/skills/overhere.png" iconsize="0.5" alpha="0.75"
 					fadenear="6000" fadefar="6100" />
-				<markercategory name="caveskip" displayname="Cave Skip" iconsize="0.5" alpha="0.75"
+				<MarkerCategory name="caveskip" displayname="Cave Skip" iconsize="0.5" alpha="0.75"
 					fadenear="3000" fadefar="3100" />
-				<markercategory name="jp" displayname="Waterfall JP" iconfile="Data/markers/dot.png"
+				<MarkerCategory name="jp" displayname="Waterfall JP" iconfile="Data/markers/dot.png"
 					color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 					heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-				<markercategory name="towers" displayname="Towers" iconsize="0.5" alpha="0.75"
+				<MarkerCategory name="towers" displayname="Towers" iconsize="0.5" alpha="0.75"
 					fadenear="4000" fadefar="4100" />
 			</MarkerCategory>
 			<MarkerCategory name="kc" displayName="Keep Construct">
@@ -181,7 +181,7 @@
 				</MarkerCategory>
 				<MarkerCategory name="portal" displayname="Portals"
 					alpha="1" fadenear="5000"
-					fadefar="5100" iconSize="0.5" heightOffset="0.25"/>
+					fadefar="5100" iconSize="0.5" heightOffset="0.25" />
 			</MarkerCategory>
 			<MarkerCategory name="statues" displayname="Statues">
 				<MarkerCategory name="king" displayname="Broken King" alpha="0.75" fadenear="3000"
@@ -194,20 +194,20 @@
 					rotate="180,0,-15" />
 				<MarkerCategory name="portal" displayname="Portals"
 					alpha="1" fadenear="2000"
-					fadefar="2200" iconSize="0.5" heightOffset="0.25"/>
+					fadefar="2200" iconSize="0.5" heightOffset="0.25" />
 			</MarkerCategory>
-			<MarkerCategory name="dhuum" displayname="Dhuum" >
+			<MarkerCategory name="dhuum" displayname="Dhuum">
 				<MarkerCategory name="seal" displayname="Seals" fadenear="5000"
-				fadefar="5100" alpha="0.75" />
+					fadefar="5100" alpha="0.75" />
 				<MarkerCategory name="throne" displayname="Throne Tanking" fadenear="5000"
-				fadefar="5100" alpha="0.75" />
+					fadefar="5100" alpha="0.75" />
 				<MarkerCategory name="worm" displayname="Flesh Worm" fadenear="3000"
-				fadefar="3100" alpha="0.75" />
+					fadefar="3100" alpha="0.75" />
 				<MarkerCategory name="bug" displayname="Bug Alignment" fadenear="800"
-				fadefar="900" alpha="0.75" />
+					fadefar="900" alpha="0.75" />
 			</MarkerCategory>
 		</MarkerCategory>
-	
+
 		<!-- Wing 6 -->
 		<MarkerCategory name="w6" displayName="Wing 6">
 			<MarkerCategory name="ca" displayName="Conjured Amalgamate Boundary"
@@ -230,6 +230,37 @@
 				<MarkerCategory name="e" displayname="East Pylon" />
 				<MarkerCategory name="wl" displayname="West Pylon (left)" />
 				<MarkerCategory name="wr" displayname="West Pylon (right)" />
+			</MarkerCategory>
+		</MarkerCategory>
+		<MarkerCategory name="w8" displayname="Wing 8">
+			<MarkerCategory name="ura" displayname="Ura">
+				<MarkerCategory name="toxics" defaulttoggle="0"
+					displayname="Toxic Geyser markers (numbers)" alpha="0.75" fadenear="4000"
+					fadefar="4100" iconsize="2.0" />
+				<MarkerCategory name="toxic_hitbox" defaulttoggle="0"
+					displayname="Toxic Geyser hitbox" alpha="0.5" color="FF3333" animspeed="0"
+					texture="Data/trails/line.png" trailscale="0.25" fadenear="600" fadefar="800"
+					canfade="0" minimapvisibility="0" mapvisibility="0"
+					tip-description="The hitbox for hitting with abilities." />
+				<MarkerCategory name="toxic_sak" defaulttoggle="0"
+					displayname="Toxic Geyser SAK range" alpha="0.5" color="FFCCFF" animspeed="0"
+					texture="Data/trails/line.png" trailscale="0.25" fadenear="600" fadefar="800"
+					canfade="0" minimapvisibility="0" mapvisibility="0"
+					tip-description="Using the SAK with your character hitbox overlapping those lines will dispell the geyser." />
+				<MarkerCategory name="spawner_hitbox" defaulttoggle="0"
+					displayname="Titanspawn Geysers hitbox" alpha="0.5" color="FF3333" animspeed="0"
+					texture="Data/trails/line.png" trailscale="0.25" fadenear="900" fadefar="1000"
+					canfade="0" minimapvisibility="0" mapvisibility="0"
+					tip-description="The hitbox for hitting with abilities." />
+				<MarkerCategory name="spawner_sak" defaulttoggle="0"
+					displayname="Titanspawn Geysers SAK range" alpha="0.5" color="FFCCFF"
+					animspeed="0" texture="Data/trails/line.png" trailscale="0.25" fadenear="900"
+					fadefar="1000" canfade="0" minimapvisibility="0" mapvisibility="0"
+					tip-description="Using the SAK with your character hitbox overlapping those lines will dispell the spawner." />
+				<MarkerCategory name="safetrails" defaulttoggle="0" displayname="Safe drop zones"
+					alpha="0.5" color="00DD00" animspeed="0" texture="Data/trails/line.png"
+					trailscale="0.5" fadenear="2000" fadefar="3000" canfade="0"
+					tip-description="Dropping sulfuric geysers outside the green areas will not interfere with toxic geysers." />
 			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
