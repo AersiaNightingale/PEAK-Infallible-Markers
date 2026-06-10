@@ -232,7 +232,32 @@
 				<MarkerCategory name="wr" displayname="West Pylon (right)" />
 			</MarkerCategory>
 		</MarkerCategory>
+
+		<!-- Wing 8 -->
 		<MarkerCategory name="w8" displayname="Wing 8">
+			 <MarkerCategory name="decima" displayname="Decima the Stormsinger" minimapvisibility="0"
+            mapvisibility="0">
+           		<MarkerCategory name="mm" displayname="Max Melee" />
+            	<MarkerCategory name="boundary" displayname="Boundary" trailscale="1.5"
+                script-filter="combatFade"
+                tip-description="If lua scripts are enabled,&#xA;disappears on Combat Start" />
+        	</MarkerCategory>
+        	<MarkerCategory name="greer" displayname="Greer the Blightbringer" minimapvisibility="0"
+            mapvisibility="0">
+            	<MarkerCategory name="boundary" displayname="Boundary" trailscale="1.5"
+                script-filter="combatFade"
+                tip-description="If lua scripts are enabled,&#xA;disappears on Combat Start"/>
+            	<MarkerCategory name="cm" defaulttoggle="0" displayname="CM Spawn Positions"
+                fadefar="7000" fadenear="6750"
+                tip-description="If lua scripts are enabled,&#xA;Numbers and Boons will disappear on Combat Start">
+                	<MarkerCategory name="gree" displayname="Gree, the Bringer" alpha="0.35"
+                        heightoffset="-0.05" iconsize="1" rotate-x="180" />
+                	<MarkerCategory name="reeg" defaulttoggle="0" displayname="Reeg, the Blighter" alpha="0.35"
+                        heightoffset="-0.05" iconsize="1" rotate-x="180" />
+                	<MarkerCategory name="ereg" defaulttoggle="0" displayname="Ereg, the Enabler" alpha="0.35"
+                        heightoffset="-0.05" iconsize="1" rotate-x="180" />
+            	</MarkerCategory>
+        	</MarkerCategory>
 			<MarkerCategory name="ura" displayname="Ura">
 				<MarkerCategory name="toxics" defaulttoggle="0"
 					displayname="Toxic Geyser markers (numbers)" alpha="0.75" fadenear="4000"

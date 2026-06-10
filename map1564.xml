@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Wing 8 -->	
+<!-- Wing 8 -->
 <OverlayData>
-	
-	<POIs>
-		<!-- Ura -->
-	    <trail type="peak.w8.ura.safetrails" traildata="Data/trails/safe_areas.trl" mapid="1564" />
+
+    <POIs>
+        <!-- Decima -->
+        <trail type="peak.w8.decima.mm" traildata="data/boundary/decima_maxmelee.trl" animspeed="0"
+            alpha="1" texture="data/boundary/redline.png" fadefar="400" fadenear="350"
+            mapid="1564" />
+        <trail type="peak.w8.decima.boundary" traildata="data/boundary/decima_boundary.trl" animspeed="0"
+            alpha="1" texture="data/boundary/redline.png" fadefar="750" fadenear="650"
+            mapid="1564" />
+
+        <!-- Greer -->
+        <trail type="peak.w8.greer.boundary" traildata="data/boundary/greer_boundary.trl" animspeed="0"
+            alpha="1" texture="data/boundary/redline.png" fadefar="950" fadenear="850"
+            mapid="1564" />
+        
+        <poi type="peak.w8.greer.cm.gree" mapid="1564" xpos="342.359" ypos="77.392" zpos="-139.306"
+            guid="f03gV9xCREi9GRfmwaxKvA==" iconfile="data/markers/dot.png" />
+        <poi type="peak.w8.greer.cm.gree" mapid="1564" xpos="342.359" ypos="77.392" zpos="-139.306"
+            guid="P+lmSeBHwEiFiTTsrH8hWQ==" iconfile="data/markers/dot-border.png" />
+        <poi type="peak.w8.greer.cm.gree" mapid="1564" xpos="407.373" ypos="77.929" zpos="-157.435"
+            guid="R72Vd6QuZ0C5M0Y9W0bxgg==" iconfile="data/markers/dot.png" />
+        <poi type="peak.w8.greer.cm.gree" mapid="1564" xpos="407.373" ypos="77.929" zpos="-157.435"
+            guid="0EHWZ5ikyU6d9ifCo70L7Q==" iconfile="data/markers/dot-border.png" />
+        
+        <poi type="peak.w8.greer.cm.reeg" mapid="1564" xpos="383.232" ypos="77.48" zpos="-238.062"
+            guid="wObrX9jxCEmUUT4l9bxaPw==" iconfile="data/markers/dot.png" />
+        <poi type="peak.w8.greer.cm.reeg" mapid="1564" xpos="383.232" ypos="77.48" zpos="-238.062"
+            guid="EPEleXT2EEOQcvn8ZCvhNw==" iconfile="data/markers/dot-border.png" />
+        <poi type="peak.w8.greer.cm.reeg" mapid="1564" xpos="334.988" ypos="77.646" zpos="-149.461"
+            guid="E5vouuOk8E+O3gQ2x4omyA==" iconfile="data/markers/dot.png" />
+        <poi type="peak.w8.greer.cm.reeg" mapid="1564" xpos="334.988" ypos="77.646" zpos="-149.461"
+            guid="lSK4n0xU2U+ExDs72+7bSQ==" iconfile="data/markers/dot-border.png" />
+       
+        <poi type="peak.w8.greer.cm.ereg" mapid="1564" xpos="422.158" ypos="77.361" zpos="-164.097"
+            guid="E+N7TesFa0qzpZWBpp9ynw==" iconfile="data/markers/dot.png" />
+        <poi type="peak.w8.greer.cm.ereg" mapid="1564" xpos="422.158" ypos="77.361" zpos="-164.097"
+            guid="6ZSBXfo7VE6JyVBq6X/wqg==" iconfile="data/markers/dot-border.png" />
+        <poi type="peak.w8.greer.cm.ereg" mapid="1564" xpos="330.634" ypos="77.393" zpos="-205.063"
+            guid="EQtfnQ3EsE2GVJivCfWNAg==" iconfile="data/markers/dot.png" />
+        <poi type="peak.w8.greer.cm.ereg" mapid="1564" xpos="330.634" ypos="77.393" zpos="-205.063"
+            guid="TzpcwdnVkkCxh863pyqIow==" iconfile="data/markers/dot-border.png" />
+
+        <!-- Ura -->
+        <trail type="peak.w8.ura.safetrails" traildata="Data/trails/safe_areas.trl" mapid="1564" />
         <trail type="peak.w8.ura.spawner_hitbox" traildata="Data/trails/spawner_hitbox.trl"
             mapid="1564" />
         <trail type="peak.w8.ura.spawner_sak" traildata="Data/trails/spawner_sak.trl" mapid="1564" />
@@ -39,7 +79,7 @@
         <poi type="peak.w8.ura.toxics" mapid="1564" xpos="109.507" ypos="269.864" zpos="218.631"
             guid="aTEbm2PGc02y00H++ffHTg==" iconfile="Data/markers/numbers/14.png" />
 
-	</POIs>
+    </POIs>
 
 </OverlayData>
 	
