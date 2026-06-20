@@ -1,5 +1,7 @@
+map1062 - Wing 1
 map1149 - Wing 2
 map1156 - Wing 3
 map1188 - Wing 4
 map1264 - Wing 5
 map1323 - Wing 7
+map1564 - Wing 8
