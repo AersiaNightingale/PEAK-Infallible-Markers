@@ -243,6 +243,7 @@
                 tip-description="If lua scripts are enabled,&#xA;disappears on Combat Start" />
 				<MarkerCategory name="portal" displayName="Portal" fadefar="7000" fadenear="6750" minimapvisibility="1"
             mapvisibility="1"/>
+				<MarkerCategory name="direction" displayname="Directions" fadefar="7000" fadenear="6750" minimapvisibility="1"/>
         	</MarkerCategory>
         	<MarkerCategory name="greer" displayname="Greer the Blightbringer">
             	<MarkerCategory name="boundary" displayname="Boundary" trailscale="1.5" minimapvisibility="0"
@@ -264,8 +265,11 @@
             mapvisibility="1"/>
         	</MarkerCategory>
 			<MarkerCategory name="ura" displayname="Ura">
-				<MarkerCategory name="toxics" defaulttoggle="0"
+				<MarkerCategory name="toxics_n" defaulttoggle="0"
 					displayname="Toxic Geyser markers (numbers)" alpha="0.75" fadenear="4000"
+					fadefar="4100" iconsize="2.0" />
+				<MarkerCategory name="toxics_ss" defaulttoggle="0"
+					displayname="Toxic Geyser markers (Seafood Shuffle)" alpha="0.75" fadenear="4000"
 					fadefar="4100" iconsize="2.0" />
 				<MarkerCategory name="toxic_hitbox" defaulttoggle="0"
 					displayname="Toxic Geyser hitbox" alpha="0.5" color="FF3333" animspeed="0"
