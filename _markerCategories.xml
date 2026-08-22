@@ -216,8 +216,19 @@
 				fadenear="375" trailscale="1.5" mapvisibility="0" minimapvisibility="0" />
 			<MarkerCategory name="clear" displayName="Clear a Path" fadenear="3000" fadefar="3100"
 				iconSize="0.5" />
+			<MarkerCategory name="qadim" displayname="Qadim">
+            	<MarkerCategory name="boundary" displayname="Boundary" fadefar="600" fadenear="450"
+                trailscale="1.5" mapvisibility="0" minimapvisibility="0" script-filter="combatFade"
+                tip-description="If lua scripts are enabled,&#xA;disappears on Combat Start" />
+            	<MarkerCategory name="lamp" displayname="Lamp" fadefar="3000" fadenear="2000"  minimapvisibility="0">
+                	<MarkerCategory name="P1" displayname="1st Path" color="FF0000"/>
+					<MarkerCategory name="P2" displayname="2nd Path" color="0000FF"/>
+					<MarkerCategory name="P3" displayname="3rd Path" color="00FF00"/>
+					<MarkerCategory name="portals" displayname="Portals" iconSize="0.5"/>
+            	</MarkerCategory>
+			</MarkerCategory>
 		</MarkerCategory>
-
+		
 		<!-- Wing 7 -->
 		<MarkerCategory name="w7" displayName="Wing 7">
 			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000"

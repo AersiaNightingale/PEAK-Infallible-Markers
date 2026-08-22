@@ -4,7 +4,7 @@
     <POIs>
         <!-- Conjured Amalgamate -->
         <trail type="peak.w6.ca" traildata="data/Boundary/conjured_amalgamate_boundary.trl" animspeed="0"
-            alpha="1" texture="data/Boundary/RedLine.png" mapid="1303" />
+            alpha="1" texture="data/Boundary/RedLine.png" MapID="1303" />
         <!-- Clear A Path -->
         <POI type="peak.w6.clear" MapID="1303" xpos="353.9356" ypos="5.16226" zpos="296.0625"
             GUID="PULxSIQN/0qTudWQh/JdFQ==" iconfile="Data/markers/mounts/skimmer.png" heightOffset="0.5"/>
@@ -13,7 +13,23 @@
         <POI type="peak.w6.clear" MapID="1303" xpos="16.02818" ypos="121.2919" zpos="253.0716" GUID="6IkHVwlIW0q3Wb0DR4tYwA==" iconfile="Data/markers/skills/Portal_Exeunt.png" heightOffset="0"/>
         <trail type="peak.w6.clear" traildata="data/trails/clear_qtp.trl" animspeed="0"
             texture="data/markers/arrowg.png" alpha="0.75" fadenear="2000" fadefar="2100"
-            minimapvisibility="0" mapvisibility="0" mapid="1149" />
+            minimapvisibility="0" mapvisibility="0" MapID="1303" />
         <POI type="peak.w6.clear" MapID="1303" xpos="63.506741" ypos="45.456284" zpos="305.495972" GUID="ukmPg/pfRk26si6Zn3MnWQ==" iconfile="Data/markers/mounts/dismount.png" heightOffset="0.5"/>
+        <!-- Qadim -->
+        <trail type="peak.w6.qadim.boundary" traildata="data/Boundary/qadim_boundary.trl" animspeed="0"
+            alpha="1" texture="Data/Boundary/RedLine.png" MapID="1303" />
+        <trail type="peak.w6.qadim.lamp.P1" traildata="data/trails/lamp1.trl" animspeed="0"
+            alpha="1" texture="Data/markers/arrowg.png" MapID="1303" />
+        <trail type="peak.w6.qadim.lamp.P2" traildata="data/trails/lamp2.trl" animspeed="0"
+            alpha="1" texture="Data/markers/arrowg.png" MapID="1303" />
+        <trail type="peak.w6.qadim.lamp.P3" traildata="data/trails/lamp3.trl" animspeed="0"
+            alpha="1" texture="Data/markers/arrowg.png" MapID="1303" />
+        <POI type="peak.w6.qadim.lamp.P1" MapID="1303" xpos="-226.3182" ypos="2.06" zpos="364.2677" GUID="sy1sCOWHjUKg7cxDAdG2gQ==" iconfile="Data/markers/numbers/1.png" heightoffset="0" />
+        <POI type="peak.w6.qadim.lamp.P2" MapID="1303" xpos="-234.7693" ypos="2.062835" zpos="345.2982" GUID="s/rXflYJx0OE+qemN0uxVQ==" iconfile="Data/markers/numbers/2.png" heightoffset="0" />
+        <POI type="peak.w6.qadim.lamp.P3" MapID="1303" xpos="-226.3489" ypos="2.062835" zpos="360.89" GUID="WveCX1SiK0qDR6r+OFhA2g==" iconfile="Data/markers/numbers/3.png" heightoffset="0" />
+        <POI type="peak.w6.qadim.lamp.portals" MapID="1303" xpos="-151.9662" ypos="2.062835" zpos="319.3036" GUID="ZK021QedFkyqs7c1cLXz4A==" iconfile="Data/markers/skills/Portal_Entre.png" heightoffset="0" />
+        <POI type="peak.w6.qadim.lamp.portals" MapID="1303" xpos="-141.9113" ypos="2.060545" zpos="257.8496" GUID="puoJzCapgEyv6ri3dsX9/w==" iconfile="Data/markers/skills/Portal_Exeunt.png" heightoffset="0" />
+
+
     </POIs>
 </OverlayData>
