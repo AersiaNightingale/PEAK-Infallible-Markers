@@ -2,6 +2,9 @@
 <!-- Wing 1 -->
 <OverlayData>
     <POIs>
+        <!-- Vale Guardian -->
+        <trail type="peak.w1.vg" traildata="Data/Boundary/vg_boundary.trl" animspeed="0"
+            alpha="0.75" texture="Data/Boundary/RedLine.png" mapid="1062" />
         <!-- Spirit Run Jump Puzzle -->
         <POI type="peak.w1.jp" MapID="1062" xpos="-136.1297" ypos="65.08268" zpos="-429.3372"
             GUID="MbQDtiZclkGizYRImNyesw==" iconfile="Data/markers/dot.png" iconsize="0.2"
@@ -90,33 +93,47 @@
         <POI type="peak.w1.jp" MapID="1062" xpos="-228.9643" ypos="71.44184" zpos="-118.4129"
             GUID="i0n8S2xFJkm1qlsdEbSYHw==" iconfile="Data/markers/dot.png" iconsize="0.2"
             color="FF0000" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-224.5923" ypos="70.83344" zpos="-121.8011" GUID="SrfJBZZiNEaQo0AS/9a5KA==" iconfile="Data/markers/dot.png" iconsize="0.2"
+        <POI type="peak.w1.jp" MapID="1062" xpos="-224.5923" ypos="70.83344" zpos="-121.8011"
+            GUID="SrfJBZZiNEaQo0AS/9a5KA==" iconfile="Data/markers/dot.png" iconsize="0.2"
             color="FF0000" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-221.9365" ypos="73.6222" zpos="-122.2448" GUID="kpwnSK4MQE61YeeEqmLATw==" iconfile="Data/markers/dot.png" iconsize="0.2"
+        <POI type="peak.w1.jp" MapID="1062" xpos="-221.9365" ypos="73.6222" zpos="-122.2448"
+            GUID="kpwnSK4MQE61YeeEqmLATw==" iconfile="Data/markers/dot.png" iconsize="0.2"
             color="FF0000" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-216.1234" ypos="78.88767" zpos="-119.0854" GUID="GAAmaPgyNU+tDzRtyzSpmQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>    
-        <POI type="peak.w1.jp" MapID="1062" xpos="-225.7323" ypos="80.53193" zpos="-119.2404" GUID="6y8zR9YmgECaYDqnCPVVgA==" iconfile="Data/markers/skills/vault.png" iconsize="0.5" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-222.1994" ypos="82.6059" zpos="-120.0384" GUID="ulAdpT1uv0eBAiWeMiaoNg==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-212.716" ypos="81.71917" zpos="-111.8842" GUID="lf4/CWkUlk+5A/Kss8Hmgw==" iconfile="Data/markers/skills/vault.png" iconsize="0.5" />
-        <POI type="peak.w1.jp" MapID="1062" xpos="-209.3612" ypos="83.24085" zpos="-108.0428" GUID="AQB70KaRg0aFFqULdvIVkA==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-206.3386" ypos="85.90126" zpos="-106.4803" GUID="5uebjqBhZEGkUrpEKX8vQg==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-199.6843" ypos="88.6106" zpos="-103.1325" GUID="EyRBdNJq4UeQhygYjqQ1cw==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-187.5724" ypos="87.08902" zpos="-105.8918" GUID="o4vlTwOWPk+EoVpSX19YLw==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-167.9814" ypos="80.80051" zpos="-138.879211" GUID="bNlicICuSkCRRL3zTHn2yQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-172.079895" ypos="80.78732" zpos="-176.173523" GUID="EhmTIbDU5kyom77dm/8kpQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
-            color="FF0000"/>
-        
-        <POI type="peak.w1.jp" MapID="1062" xpos="-181.8465" ypos="89.43427" zpos="-103.7933" GUID="q4/his3DukuVZeNQTGzJ3g==" iconfile="Data/markers/skills/prepare_shadow_portal.png"
-            iconsize="0.5"/>
-        <POI type="peak.w1.jp" MapID="1062" xpos="-232.4358" ypos="60.52361" zpos="-171.7923" GUID="LphFzd+/VEa6B77PXPrpBg==" iconfile="Data/markers/skills/shadow_portal.png"
-            iconsize="0.5"/>
+        <POI type="peak.w1.jp" MapID="1062" xpos="-216.1234" ypos="78.88767" zpos="-119.0854"
+            GUID="GAAmaPgyNU+tDzRtyzSpmQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-225.7323" ypos="80.53193" zpos="-119.2404"
+            GUID="6y8zR9YmgECaYDqnCPVVgA==" iconfile="Data/markers/skills/vault.png" iconsize="0.5" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-222.1994" ypos="82.6059" zpos="-120.0384"
+            GUID="ulAdpT1uv0eBAiWeMiaoNg==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-212.716" ypos="81.71917" zpos="-111.8842"
+            GUID="lf4/CWkUlk+5A/Kss8Hmgw==" iconfile="Data/markers/skills/vault.png" iconsize="0.5" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-209.3612" ypos="83.24085" zpos="-108.0428"
+            GUID="AQB70KaRg0aFFqULdvIVkA==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-206.3386" ypos="85.90126" zpos="-106.4803"
+            GUID="5uebjqBhZEGkUrpEKX8vQg==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-199.6843" ypos="88.6106" zpos="-103.1325"
+            GUID="EyRBdNJq4UeQhygYjqQ1cw==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-187.5724" ypos="87.08902" zpos="-105.8918"
+            GUID="o4vlTwOWPk+EoVpSX19YLw==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-167.9814" ypos="80.80051" zpos="-138.879211"
+            GUID="bNlicICuSkCRRL3zTHn2yQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-172.079895" ypos="80.78732" zpos="-176.173523"
+            GUID="EhmTIbDU5kyom77dm/8kpQ==" iconfile="Data/markers/dot.png" iconsize="0.2"
+            color="FF0000" />
+
+        <POI type="peak.w1.jp" MapID="1062" xpos="-181.8465" ypos="89.43427" zpos="-103.7933"
+            GUID="q4/his3DukuVZeNQTGzJ3g==" iconfile="Data/markers/skills/prepare_shadow_portal.png"
+            iconsize="0.5" />
+        <POI type="peak.w1.jp" MapID="1062" xpos="-232.4358" ypos="60.52361" zpos="-171.7923"
+            GUID="LphFzd+/VEa6B77PXPrpBg==" iconfile="Data/markers/skills/shadow_portal.png"
+            iconsize="0.5" />
 
         <POI type="peak.w1.jp" MapID="1062" xpos="-219.0425" ypos="34.88572" zpos="-10.90453"
             GUID="Tufsymyp7EC5g3TYszx2pw==" iconfile="Data/markers/dot.png" iconsize="0.2"
@@ -186,13 +203,25 @@
             alpha="0.9" texture="data/boundary/RedLine.png" mapid="1062" />
 
         <!-- Cull Bandits -->
-        <POI type="peak.w1.cull" MapID="1062" xpos="15.791" ypos="31.45061" zpos="97.19062"
+        <POI type="peak.w1.cull.adds" MapID="1062" xpos="-4.471171" ypos="30.74121" zpos="32.48567"
+            GUID="Kd2uFP1RRU6ctXiFLJV+Ew==" iconfile="Data/markers/markers/arrow.png" />
+        <POI type="peak.w1.cull.adds" MapID="1062" xpos="45.71237" ypos="31.84534" zpos="53.12317"
+            GUID="orPGjDGQNk+ewVMXpT5z0A==" iconfile="Data/markers/markers/circle.png" />
+        <POI type="peak.w1.cull.adds" MapID="1062" xpos="47.42639" ypos="31.94933" zpos="89.33648"
+            GUID="EOtZu4+DLkqQSpMfiQYIag==" iconfile="Data/markers/markers/heart.png" />
+        <POI type="peak.w1.cull.adds" MapID="1062" xpos="20.26102" ypos="31.88016" zpos="91.74446"
+            GUID="82EH86DJA0WBH6t/zoTyDg==" iconfile="Data/markers/markers/square.png" />
+        <POI type="peak.w1.cull.portal" MapID="1062" xpos="15.791" ypos="31.45061" zpos="97.19062"
             GUID="OVZnrCgtn0OvO1IAkuGsNw==" iconfile="Data/markers/skills/portal_entre.png" />
-        <POI type="peak.w1.cull" MapID="1062" xpos="-5.708016" ypos="68.74877" zpos="197.4226"
+        <POI type="peak.w1.cull.portal" MapID="1062" xpos="0.3520014" ypos="53.07055" zpos="161.2263"
             GUID="fPEkWsktAkep4OCemNmCVg==" iconfile="Data/markers/skills/portal_exeunt.png" />
-        <POI type="peak.w1.cull" MapID="1062" xpos="11.2772" ypos="30.22049" zpos="114.0498"
+        <POI type="peak.w1.cull.portal" MapID="1062" xpos="-17.14922" ypos="68.2824" zpos="192.1051"
+            GUID="nWrkrKwf0Ue9Bo1PW/LlDA==" iconfile="Data/markers/skills/portal_entre.png" />
+        <POI type="peak.w1.cull.portal" MapID="1062" xpos="-106.3894" ypos="62.83654" zpos="104.7707"
+            GUID="VNajzSnZX0ee4mAK3cO/hQ==" iconfile="Data/markers/skills/portal_exeunt.png" />
+        <POI type="peak.w1.cull.portal" MapID="1062" xpos="11.2772" ypos="30.22049" zpos="114.0498"
             GUID="n0MT7DovdESo97bSYcDOyw==" iconfile="Data/markers/skills/blink.png" />
-        <POI type="peak.w1.cull" MapID="1062" xpos="6.855477" ypos="47.75626" zpos="138.2018"
+        <POI type="peak.w1.cull.portal" MapID="1062" xpos="6.855477" ypos="47.75626" zpos="138.2018"
             GUID="nFGKKAMajk66HIQlAC3QPw==" iconfile="Data/markers/dot.png"
             color="FF33FF" />
 

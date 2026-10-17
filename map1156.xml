@@ -120,15 +120,15 @@
 			color="FF0000" minimapvisibility="0" mapvisibility="0" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="43.28149" ypos="109.4543"
 			zpos="520.4016"
-			guid="+LhIyHkpeE25SsHyyDwYGA==" iconfile="Data/markers/skills/Psychic_Force.png" />
+			guid="+LhIyHkpeE25SsHyyDwYGA==" iconfile="Data/markers/skills/temporal_curtain.png" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="0.649924" ypos="115.381" zpos="527.412"
 			guid="jrcwh5FHE0KCZg2Q4proRw==" iconfile="Data/markers/skills/Glyph_of_the_Tides.png" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-58.7003" ypos="125.783" zpos="525.625"
 			guid="rqrvVC9+5Umiv1hC3OiNPA==" iconfile="Data/markers/skills/temporal_curtain.png" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-40.4503" ypos="137.041" zpos="458.277"
-			guid="55k2WlZoBUqnhXF0pZQwCA==" iconfile="Data/markers/skills/Psychic_Force.png" />
+			guid="55k2WlZoBUqnhXF0pZQwCA==" iconfile="Data/markers/skills/Glyph_of_the_Tides.png" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-112.758" ypos="154.732" zpos="455.881"
-			guid="XJBuRKRQE0OCr/YUPUqHyA==" iconfile="Data/markers/skills/Glyph_of_the_Tides.png" />
+			guid="XJBuRKRQE0OCr/YUPUqHyA==" iconfile="Data/markers/skills/fear_me.png" />
 		<POI type="peak.w3.escort.towers" MapID="1156" xpos="-66.41895" ypos="104.0815"
 			zpos="488.0852" GUID="arwCTtcy4kqFL8gV0ckHHg==" iconfile="Data/markers/skills/Blink.png"
 			heightoffset="0" />
